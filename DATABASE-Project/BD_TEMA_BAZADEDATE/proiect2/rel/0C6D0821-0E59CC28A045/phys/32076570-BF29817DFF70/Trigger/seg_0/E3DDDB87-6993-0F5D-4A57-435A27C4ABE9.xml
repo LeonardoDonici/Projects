@@ -1,0 +1,28 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TriggerOraclev10g class="oracle.dbtools.crest.model.design.storage.oracle.v10g.TriggerOraclev10g" name="Trg_imprumuturi_BRIU" directorySegmentName="seg_0" id="E3DDDB87-6993-0F5D-4A57-435A27C4ABE9">
+<createdBy>LEO</createdBy>
+<createdTime>2023-11-14 15:51:04 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<actions>INSERT, UPDATE</actions>
+<body><![CDATA[BEGIN
+
+  IF( :new.Data_imprumutului > SYSDATE)
+  	THEN RAISE_APPLICATION_ERROR(-20001,
+  		'Data invalida: ' || TO_CHAR ( :new.Data_imprumutului, 'DD.MM.YYYY HH24:MI:SS') || 'trebuie sa fie mai mica decat data curenta');
+  	
+  	END IF;
+  	
+  IF( :new.Data_scadentei < SYSDATE)
+  	THEN RAISE_APPLICATION_ERROR(-20001,
+  		'Data invalida: ' || TO_CHAR ( :new.Data_scadentei, 'DD.MM.YYYY HH24:MI:SS') || 'trebuie sa fie mai mare decat data curenta');
+  	
+  	END IF;
+
+
+  	
+END
+
+]]></body>
+<triggerTime>BEFORE</triggerTime>
+<table>7F5DB5CC-3DDD-E42F-8857-706E181A3A64</table>
+</TriggerOraclev10g>

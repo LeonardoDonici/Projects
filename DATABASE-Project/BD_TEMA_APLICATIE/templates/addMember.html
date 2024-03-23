@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+    @font-face {
+      font-family: 'SansationLight';
+      src: url('./FontSansationLight/SansationLight.eot');
+      src: local('SansationLight'), url('./FontSansationLight/SansationLight.woff') format('woff'), url('./FontSansationLight/SansationLight.ttf') format('truetype');
+    }
+    * {box-sizing: border-box}
+    body, html {
+        height: 100%;
+        margin: 0;
+        font-family: 'SansationLight' !important;
+        background: rgb(22,22,22);
+    }
+    .tablink {
+      font-weight: bold;
+      font-family: 'SansationLight' !important;
+      background-color: #557;
+      color: azure;
+      float: left;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      padding: 12px 12px;
+      font-size: 17px;
+      width: 12.5%;
+    }
+    .tablink:hover {
+      background-color: #579;
+    }
+    .tabcontent {
+        color: white;
+        padding: 100px 20px;
+        height: 100%;
+    }
+    input[type="text"] {
+        color: black;
+    }
+  </style>
+</head>
+<body>
+  <a href="#"><button class="tablink">Acasă</button></a>
+  <a href="#"><button class="tablink">Adaugă membru</button></a>
+
+  <div id="AddMember" class="tabcontent">
+    <center>
+      <br>
+      <h1 id="h3">Adaugă Membru</h1>
+      <br><br>
+      <!-- Adăugați formularul pentru adăugarea membrului aici -->
+      <form method="POST" action="/saveMember">
+       
+        <label for="nume">Nume:</label>
+        <input type="text" name="nume" required>
+        <br>
+        <label for="prenume">Prenume:</label>
+        <input type="text" name="prenume" required>
+        <br>
+        <label for="nr_telefon">Nr. Telefon:</label>
+        <input type="text" name="nr_telefon" required>
+        <br>
+ 	<label for="data_inregistrarii">Data inregistrarii:</label>
+        <input type="text" name="data_inregistrarii" placeholder="Exemplu: 01-JAN-2000" pattern="\d{2}-[A-Z]{3}-\d{4}" title="Introduceți data în formatul DD-MON-YYYY" required>
+        <br>
+        <label for="data_nasterii">Data Nașterii:</label>
+        <input type="text" name="data_nasterii" placeholder="Exemplu: 01-JAN-2000" pattern="\d{2}-[A-Z]{3}-\d{4}" title="Introduceți data în formatul DD-MON-YYYY" required>
+        <br>
+        <label for="gen">Gen:</label>
+        <input type="text" name="gen" required>
+        <br>
+        <button type="submit">Adaugă Membru</button>
+      </form>
+      <br><br><br>
+    </center>
+  </div>
+</body>
+</html>

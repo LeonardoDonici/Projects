@@ -1,0 +1,170 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="B6034DF3-05A0-08F0-B1CA-769D750CC9AC" name="Carti">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 09:11:23 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ID_Carte" id="96753F68-A966-C053-3C1B-74A0BADD66FB">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 09:11:42 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Titlu" id="E3333ACA-A99D-2B86-2B73-E53265A32553">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 09:38:59 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>60</dataTypeSize>
+<checkConstraint>
+<implementationDef dbType="Generic Constraint" definition="length(Titlu)&gt;1 AND REGEXP_LIKE (Titlu, &apos;^[a-zA-Z ]*$&apos; )"/>
+</checkConstraint>
+<ownDataTypeParameters>60,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Autor" id="73D01F6D-3435-CA1E-BFA8-2A2D9E58B42F">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 09:39:35 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>40</dataTypeSize>
+<checkConstraint>
+<implementationDef dbType="Generic Constraint" definition="length(Autor)&gt;1 AND REGEXP_LIKE (Autor, &apos;^[a-zA-Z ]*$&apos; )"/>
+</checkConstraint>
+<ownDataTypeParameters>40,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Editura" id="156646DE-EB50-8C79-D54A-08FC4BEE4431">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 09:40:14 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="An_publicare" id="9C922BC1-B901-4CAD-79BC-487AC13B2B44">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 09:40:41 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Nr_exemp_impr" id="79A872AE-A1B9-C4B1-402A-0CDBDE4DFFE8">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 09:41:37 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Limba" id="A2849FA8-D273-FFC2-44B7-9E8DCEA33722">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 09:42:16 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ID_categorie" id="613DCB52-F92D-5D21-E113-C8E9D4669CC0">
+<createdBy>LEO</createdBy>
+<createdTime>2023-11-14 16:40:58 UTC</createdTime>
+<generatorID>D2904CAC-46C1-75DC-2CDF-378C67EA052B</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<referedAttribute>0E665731-137C-4B7D-DF98-A0CB1FF679F8</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="4400E67C-7108-0EDA-084F-B51253E34324" name="ID_carte_uk">
+<createdBy>LEO</createdBy>
+<createdTime>2023-11-01 17:10:04 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="false"/>
+</engineerTo>
+<newElementsIDs>96753F68-A966-C053-3C1B-74A0BADD66FB</newElementsIDs>
+<usedAttributes>
+<attributeRef>96753F68-A966-C053-3C1B-74A0BADD66FB</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="E2F95815-4663-7B7F-E434-F282E43265DC" name="Carti PK">
+<createdBy>LEO</createdBy>
+<createdTime>2023-11-01 17:11:10 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>96753F68-A966-C053-3C1B-74A0BADD66FB</attributeRef>
+<attributeRef>613DCB52-F92D-5D21-E113-C8E9D4669CC0</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="A6369F2D-F13E-D3C3-68AB-B66AD37143E4" name="Titlu_uk">
+<createdBy>LEO</createdBy>
+<createdTime>2023-11-03 08:03:03 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="false"/>
+</engineerTo>
+<newElementsIDs>E3333ACA-A99D-2B86-2B73-E53265A32553</newElementsIDs>
+<usedAttributes>
+<attributeRef>E3333ACA-A99D-2B86-2B73-E53265A32553</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

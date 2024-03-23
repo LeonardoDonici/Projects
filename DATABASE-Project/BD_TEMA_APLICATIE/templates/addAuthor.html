@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+
+    @font-face {
+      font-family: 'SansationLight';
+      src: url('./FontSansationLight/SansationLight.eot');
+      src: local('SansationLight'), url('./FontSansationLight/SansationLight.woff') format('woff'), url('./FontSansationLight/SansationLight.ttf') format('truetype');
+    }
+    * {box-sizing: border-box}
+
+    /* Set height of body and the document to 100% */
+    body, html {
+        height: 100%;
+        margin: 0;
+        font-family: 'SansationLight' !important;
+        background: rgb(22,22,22);
+    }
+
+    /* Style tab links */
+    .tablink {
+      font-weight: bold;
+      font-family: 'SansationLight' !important;
+      background-color: #557;
+      color: azure;
+      float: left;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      padding: 12px 12px;
+      font-size: 17px;
+      width: 12.5%;
+    }
+
+    .tablink:hover {
+      background-color: #579;
+    }
+
+    /* Style the tab content (and add height:100% for full page content) */
+    .tabcontent {
+        color: white;
+        padding: 100px 20px;
+        height: 100%;
+    }
+
+    /* Adăugarea culorii textului pentru câmpurile de input și buton */
+    input[type="text"],
+    textarea,
+    button {
+        color: black; /* Schimbați la culoarea dorită pentru text */
+    }
+
+  </style>
+</head>
+<body>
+
+   <a href="authors"><button class="tablink" >Authors</button></a>
+  <a href="library_cards"><button class="tablink">Carduri_de_biblioteca</button></a>
+  <a href="books"><button class="tablink">Carti</button></a>
+  <a href="categories"><button class="tablink">Categorii</button></a>
+  <a href="loans"><button class="tablink">Imprumuturi</button></a>
+  <a href="members"><button class="tablink">Membri</button></a>
+
+  <div id="AddAuthor" class="tabcontent">
+    <center>
+      <br>
+      <h1 id="h3">Add Author</h1>
+      <br><br>
+      <form method="POST" action="/saveAuthor">
+        
+        <label for="carti_id_carte">ID Carte Scrisa:</label>
+        <input type="text" name="carti_id_carte" required>
+        <br>
+        <label for="nume_autor">Nume Autor:</label>
+        <input type="text" name="nume_autor" required>
+        <br>
+        <label for="prenume_autor">Prenume Autor:</label>
+        <input type="text" name="prenume_autor" required>
+        <br>
+        <label for="biografie">Biografie:</label>
+        <textarea name="biografie" required></textarea>
+        <br>
+        <button type="submit">Adaugă Autor</button>
+      </form>
+
+      <br><br><br>
+    </center>
+  </div>
+
+</body>
+</html>

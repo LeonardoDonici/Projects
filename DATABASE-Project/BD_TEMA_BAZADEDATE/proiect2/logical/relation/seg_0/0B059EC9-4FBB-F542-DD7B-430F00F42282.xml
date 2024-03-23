@@ -1,0 +1,21 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="CarduriDB_Membri_FK" directorySegmentName="seg_0" id="0B059EC9-4FBB-F542-DD7B-430F00F42282">
+<createdBy>LEO</createdBy>
+<createdTime>2023-11-14 16:15:56 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<sourcePk>3CE72BBC-96EF-08AC-D8C2-A2FB248D33EA</sourcePk>
+<identifying>false</identifying>
+<nameOnSource>are un</nameOnSource>
+<nameOnTarget>apartine lui</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>8F2E32F5-BA5C-8401-3687-6CBA79AB6E51</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>71A6F566-EEBE-D37C-F3B2-8477B4983423</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

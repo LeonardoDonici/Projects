@@ -1,0 +1,21 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Membri_imprumut_fk" directorySegmentName="seg_0" id="464B051B-3D4E-6B3E-60A3-D464059581F6">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-14 10:19:56 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<sourcePk>3CE72BBC-96EF-08AC-D8C2-A2FB248D33EA</sourcePk>
+<identifying>false</identifying>
+<nameOnSource>a imprumutat</nameOnSource>
+<nameOnTarget>este luat de</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>8F2E32F5-BA5C-8401-3687-6CBA79AB6E51</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>8D082637-01E6-EDB5-1092-8768AB6AABEB</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

@@ -1,0 +1,163 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="F34EA7B8-BE30-AC01-E182-39342ED7BF2E" name="Carti">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>B6034DF3-05A0-08F0-B1CA-769D750CC9AC</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID_Carte" id="55002196-EB78-DF52-BC59-D9F382D5A14A">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>96753F68-A966-C053-3C1B-74A0BADD66FB</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Titlu" id="4F3D1123-1950-6BF9-1D9E-86C2413289C8">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>E3333ACA-A99D-2B86-2B73-E53265A32553</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>60</dataTypeSize>
+<checkConstraint>
+<implementationDef dbType="Generic Constraint" definition="length(Titlu)&gt;1 AND REGEXP_LIKE (Titlu, &apos;^[a-zA-Z ]*$&apos; )"/>
+</checkConstraint>
+<ownDataTypeParameters>60,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Autor" id="DC88DAB6-7C36-704D-4249-B0886081556D">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>73D01F6D-3435-CA1E-BFA8-2A2D9E58B42F</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>40</dataTypeSize>
+<checkConstraint>
+<implementationDef dbType="Generic Constraint" definition="length(Autor)&gt;1 AND REGEXP_LIKE (Autor, &apos;^[a-zA-Z ]*$&apos; )"/>
+</checkConstraint>
+<ownDataTypeParameters>40,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Editura" id="E1454225-ED40-7938-7E77-B6B68CD5FDC7">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>156646DE-EB50-8C79-D54A-08FC4BEE4431</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="An_publicare" id="99550E7B-BD3D-B335-2A6A-7CAE53E78212">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>9C922BC1-B901-4CAD-79BC-487AC13B2B44</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Nr_exemp_impr" id="2B9E8430-C98A-F51F-D46B-DB426A4E9ACC">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>79A872AE-A1B9-C4B1-402A-0CDBDE4DFFE8</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Limba" id="5B29FA7B-07C3-EB31-8F9D-CE9E4FCE05A5">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>A2849FA8-D273-FFC2-44B7-9E8DCEA33722</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Categorii_ID_categorie" id="33665116-372E-FD63-2012-4460B41B0D44">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>613DCB52-F92D-5D21-E113-C8E9D4669CC0</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="AF0B7AD7-23EA-FBC7-78BC-AB4C5EF02469" referredColumn="AC10B620-676A-E345-9439-39E37C29B1E1"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="F479649D-BFCD-6DD9-23E0-39B6242ACAA6" name="Carti_PK">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>E2F95815-4663-7B7F-E434-F282E43265DC</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="55002196-EB78-DF52-BC59-D9F382D5A14A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="C1E72DFD-7FB6-71D1-6C9E-1F472155B28D" name="Carti_ID_Carte_UN">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>4400E67C-7108-0EDA-084F-B51253E34324</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="55002196-EB78-DF52-BC59-D9F382D5A14A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="6B9836CE-0C00-696E-2716-08949909F50D" name="Carti_Titlu_UN">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>A6369F2D-F13E-D3C3-68AB-B66AD37143E4</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="4F3D1123-1950-6BF9-1D9E-86C2413289C8"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="B65504E7-C68F-186C-9F59-1D9D003C950D" name="Carti_Categorii_FK">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>D2904CAC-46C1-75DC-2CDF-378C67EA052B</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="33665116-372E-FD63-2012-4460B41B0D44"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

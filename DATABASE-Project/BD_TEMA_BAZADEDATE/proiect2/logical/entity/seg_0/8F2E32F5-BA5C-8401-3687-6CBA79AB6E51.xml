@@ -1,0 +1,147 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="8F2E32F5-BA5C-8401-3687-6CBA79AB6E51" name="Membri">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:13:06 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ID_membru" id="A7B26DCB-69EE-332C-DD5B-3B2108B4653C">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:13:22 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Nume" id="7CF74263-2825-F9F3-951D-D7F0F4ABE331">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:15:03 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<checkConstraint>
+<implementationDef dbType="Generic Constraint" definition="length(Nume)&gt;1 AND REGEXP_LIKE (Nume, &apos;^[a-zA-Z ]*$&apos; )"/>
+</checkConstraint>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Prenume" id="B23BA657-7997-96CD-15FD-8FDC76C3EA60">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:18:36 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<checkConstraint>
+<implementationDef dbType="Generic Constraint" definition="length(Prenume)&gt;1 AND REGEXP_LIKE ( Prenume, &apos;^[a-zA-Z ]*$&apos; )"/>
+</checkConstraint>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Nr_telefon" id="0A202149-D616-3240-4E99-EBE16C66354A">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:20:13 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<constraintName>CheckNumbers</constraintName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<checkConstraint>
+<implementationDef dbType="Generic Constraint" definition="length(Nr_telefon) = 10 AND REGEXP_LIKE ( Nr_telefon,  &apos;^[0][:7:3:2][0-9 ]*$&apos;) "/>
+</checkConstraint>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Data_inregistrarii" id="4F596BA0-F3CB-8858-4F76-9853A4FE0927">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:25:23 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Data_Nasterii" id="4E2EDBBB-4031-4AA8-C4CF-11812990743A">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:26:19 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Gen" id="AF167F38-E5B7-6250-1FAC-E2543BE4E547">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:26:46 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="3CE72BBC-96EF-08AC-D8C2-A2FB248D33EA" name="Membri PK">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:14:30 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>A7B26DCB-69EE-332C-DD5B-3B2108B4653C</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="E979C0D9-54F5-E49F-A9D6-3AEAC09F7363" name="Nr_telefon_uk">
+<createdBy>LEO</createdBy>
+<createdTime>2023-11-01 17:17:32 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="false"/>
+</engineerTo>
+<newElementsIDs>0A202149-D616-3240-4E99-EBE16C66354A</newElementsIDs>
+<usedAttributes>
+<attributeRef>0A202149-D616-3240-4E99-EBE16C66354A</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

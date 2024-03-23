@@ -1,0 +1,75 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:32:5"
+
+[OnMainPanel]
+Class="Function"
+Prototype="int OnMainPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:48:17"
+
+[OnFreqPanel]
+Class="Function"
+Prototype="int OnFreqPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:68:17"
+
+[OnLoadCB]
+Class="Function"
+Prototype="int OnLoadCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:91:17"
+
+[OnMaxMin]
+Class="Function"
+Prototype="int OnMaxMin(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:144:17"
+
+[OnAplica]
+Class="Function"
+Prototype="int OnAplica(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:181:17"
+
+[OnFiltruCB]
+Class="Function"
+Prototype="int OnFiltruCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:240:17"
+
+[OnSaveButton]
+Class="Function"
+Prototype="int OnSaveButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:263:17"
+
+[Generare_Anvelopa]
+Class="Function"
+Prototype="int Generare_Anvelopa(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:318:17"
+
+[On_Prev]
+Class="Function"
+Prototype="int On_Prev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:344:17"
+
+[On_Next]
+Class="Function"
+Prototype="int On_Next(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:395:17"
+
+[OnSwitchPanel]
+Class="Function"
+Prototype="int OnSwitchPanel(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:451:17"
+
+[OnFreqBTT]
+Class="Function"
+Prototype="int OnFreqBTT(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:482:17"
+
+[OnAPPLYBTT]
+Class="Function"
+Prototype="int OnAPPLYBTT(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:534:17"
+
+[OnSaveBtt]
+Class="Function"
+Prototype="int OnSaveBtt(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\LEO\Desktop\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306Aora1\Donici_Leonardo_wav3_data_1306A\ProiectAPD.c:659:17"
+

@@ -1,0 +1,120 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="7F5DB5CC-3DDD-E42F-8857-706E181A3A64" name="Imprumuturi">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>8D082637-01E6-EDB5-1092-8768AB6AABEB</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID_imprumut" id="47295A48-3EC4-C988-349E-E9227D7F0B43">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>C01814E9-EBD6-34C9-6054-B6BB0B0BE5FD</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ID_carte" id="B51C63F7-A019-D6C1-D3A6-700C287C9AFD">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>E78D653F-7535-D653-09AD-42684D83E2E2</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Membri_ID_membru" id="D19AD14E-E4F4-7090-019A-22AC48F504FB">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>94404D3B-02A3-C897-FDC9-5786237A369F</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="7382A477-AA80-0A11-8740-A3DD00425C77" referredColumn="11ECEC43-9B8E-40A6-5EB4-B1F2E290A5E8"/>
+</associations>
+</Column>
+<Column name="Data_imprumutului" id="BC4073E6-A9AF-8D8E-284E-FEFCDB794C34">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>0FB5A9C5-05A0-54A7-817D-7AE770C1CC8D</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_scadentei" id="0282B28E-E192-02D5-03B7-F1DEF90615FB">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>F2BC3A78-D46D-98AA-8EF2-E2A771D33805</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_returnarii" id="D0554DD4-AB60-4D86-5BD0-1409BD805F5D">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>D36E1DA5-FBF5-7B8A-D486-615CEC55D5C5</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="4F12488C-A1E7-CA48-26A6-E547E81DA3B4" name="Imprumuturi_PK">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>7E9FA2D6-98B2-A9AA-B711-75758646146D</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="47295A48-3EC4-C988-349E-E9227D7F0B43"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="6B2E3E64-947A-2AAB-DF5D-4D1D84C8C297" name="Imprumuturi_ID_carte_UN">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>C8D617B5-4701-5F3C-2D51-1E9D87CD7359</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="B51C63F7-A019-D6C1-D3A6-700C287C9AFD"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="903F41B4-B9FC-AAF3-9324-293F6EB2EED4" name="Imprumuturi_Membri_FK">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>464B051B-3D4E-6B3E-60A3-D464059581F6</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D19AD14E-E4F4-7090-019A-22AC48F504FB"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

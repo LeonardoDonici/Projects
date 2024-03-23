@@ -1,0 +1,72 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="71A6F566-EEBE-D37C-F3B2-8477B4983423" name="Carduri_de_biblioteca">
+<createdBy>LEO</createdBy>
+<createdTime>2023-10-28 14:55:47 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ID_Card" id="9A0B3880-70C4-7E63-E5D8-9C051B7262A1">
+<createdBy>LEO</createdBy>
+<createdTime>2023-10-28 14:56:16 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Data_expirarii" id="EFC60208-0C24-1E53-6B1D-28DFB2F0AE60">
+<createdBy>LEO</createdBy>
+<createdTime>2023-10-28 14:57:16 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ID_membru" id="B24A0A45-274A-4E74-4333-76F02C970830">
+<createdBy>LEO</createdBy>
+<createdTime>2023-11-14 16:15:56 UTC</createdTime>
+<generatorID>0B059EC9-4FBB-F542-DD7B-430F00F42282</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<referedAttribute>A7B26DCB-69EE-332C-DD5B-3B2108B4653C</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="82E8FD54-A505-2189-ABA8-62EEEF531431" name="Carduri_de_biblioteca PK">
+<createdBy>LEO</createdBy>
+<createdTime>2023-10-28 14:56:28 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>9A0B3880-70C4-7E63-E5D8-9C051B7262A1</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

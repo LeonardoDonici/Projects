@@ -1,0 +1,116 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="1F1DA67D-D031-7CDA-130F-910E29D90525" name="Autori">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:39:20 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ID_autor" id="D90DE799-DB20-565A-C8EC-989988806959">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:41:30 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Nume_autor" id="AA3D4334-5248-9595-DE3D-FA4B0EB07EEC">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:42:06 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Prenume_autor" id="0FAD8C2E-CFF9-BA8C-AB4D-3F9A536EDDB0">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:43:09 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Biografie" id="172E1994-5A7C-54BC-F595-E61100D57975">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:43:31 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>1000</dataTypeSize>
+<ownDataTypeParameters>1000,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ID_Carte" id="6D6D9B88-0082-48F4-BDEC-AAD041940B65">
+<createdBy>LEO</createdBy>
+<createdTime>2023-11-14 16:28:10 UTC</createdTime>
+<generatorID>73EA9A06-EBFB-4801-D7EB-EA5960F5AC88</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<referedAttribute>96753F68-A966-C053-3C1B-74A0BADD66FB</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ID_categorie" id="8BB95EA5-5005-A036-8789-4A0B525BBA30">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 11:07:40 UTC</createdTime>
+<generatorID>73EA9A06-EBFB-4801-D7EB-EA5960F5AC88</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<referedAttribute>613DCB52-F92D-5D21-E113-C8E9D4669CC0</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="6B5C94F3-CF15-8614-68DA-9A66FBD66AC7" name="Autori PK">
+<createdBy>student</createdBy>
+<createdTime>2023-10-20 10:42:02 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>D90DE799-DB20-565A-C8EC-989988806959</attributeRef>
+<attributeRef>6D6D9B88-0082-48F4-BDEC-AAD041940B65</attributeRef>
+<attributeRef>8BB95EA5-5005-A036-8789-4A0B525BBA30</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

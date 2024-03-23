@@ -1,0 +1,94 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="7917DAA3-8EDC-2176-477B-F4B8D598FFC8" name="Carduri_de_biblioteca">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>71A6F566-EEBE-D37C-F3B2-8477B4983423</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID_Card" id="429F818D-0941-288D-214D-370EBA21FBD0">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>9A0B3880-70C4-7E63-E5D8-9C051B7262A1</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Membri_ID_membru" id="FFCB35E2-F4EA-E473-5A07-836D981067B2">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>B24A0A45-274A-4E74-4333-76F02C970830</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="36041FAB-8D75-9FA4-A319-057692910E57" referredColumn="11ECEC43-9B8E-40A6-5EB4-B1F2E290A5E8"/>
+</associations>
+</Column>
+<Column name="Data_expirarii" id="AA275453-5932-BE69-E670-30A8770804E4">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>EFC60208-0C24-1E53-6B1D-28DFB2F0AE60</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="1615C721-2D57-65B7-9A6E-168D9DAA3044" name="Carduri_de_biblioteca_PK">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>82E8FD54-A505-2189-ABA8-62EEEF531431</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="429F818D-0941-288D-214D-370EBA21FBD0"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="23D83579-D791-9892-47FC-BDDFEA2787AD" name="CDB_Numar_de_membru_UN">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>57F85F24-B8EA-E36E-887E-054B5BFA713A</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+</ind_PK_UK>
+<ind_PK_UK id="2895E87B-61F9-F0E2-C562-B38D724B66A2" name="Carduri_de_biblioteca__IDX">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<relationGeneratorID>0B059EC9-4FBB-F542-DD7B-430F00F42282</relationGeneratorID>
+<indexColumnUsage>
+<colUsage columnID="FFCB35E2-F4EA-E473-5A07-836D981067B2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="27DDB00D-921A-B6C1-DF72-B91D021AED98" name="CDB_Membri_FK">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>0B059EC9-4FBB-F542-DD7B-430F00F42282</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="FFCB35E2-F4EA-E473-5A07-836D981067B2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

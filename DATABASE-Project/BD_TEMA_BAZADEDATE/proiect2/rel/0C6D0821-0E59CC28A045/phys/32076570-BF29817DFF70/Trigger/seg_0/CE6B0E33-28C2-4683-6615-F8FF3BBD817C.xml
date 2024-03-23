@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TriggerOraclev10g class="oracle.dbtools.crest.model.design.storage.oracle.v10g.TriggerOraclev10g" name="Trg_carduri_de_biblioteca_BRIU" directorySegmentName="seg_0" id="CE6B0E33-28C2-4683-6615-F8FF3BBD817C">
+<createdBy>LEO</createdBy>
+<createdTime>2023-11-14 15:53:36 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<actions>INSERT, UPDATE</actions>
+<body><![CDATA[ BEGIN
+ IF( :new.Data_expirarii < SYSDATE)
+  	THEN RAISE_APPLICATION_ERROR(-20001,
+  		'Data invalida: ' || TO_CHAR ( :new.Data_expirarii, 'DD.MM.YYYY HH24:MI:SS') || 'trebuie sa fie mai mare decat data curenta');
+  	
+  	END IF;
+
+END]]></body>
+<triggerTime>BEFORE</triggerTime>
+<table>7917DAA3-8EDC-2176-477B-F4B8D598FFC8</table>
+</TriggerOraclev10g>

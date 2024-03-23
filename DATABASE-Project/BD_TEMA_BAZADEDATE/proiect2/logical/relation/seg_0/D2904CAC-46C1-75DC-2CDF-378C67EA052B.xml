@@ -1,0 +1,21 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Carti_Categorii_FK" directorySegmentName="seg_0" id="D2904CAC-46C1-75DC-2CDF-378C67EA052B">
+<createdBy>LEO</createdBy>
+<createdTime>2023-11-14 16:40:58 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<engineerTo>
+<item key="0C6D0821-AD10-1B68-705C-0E59CC28A045" value="true"/>
+</engineerTo>
+<sourcePk>D953DF52-1391-E852-DE3F-1E2CE1016796</sourcePk>
+<identifying>true</identifying>
+<nameOnSource>are</nameOnSource>
+<nameOnTarget>se incadreaza in</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>1C47D78E-C2E8-6896-1966-E6CCDAE5524A</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>B6034DF3-05A0-08F0-B1CA-769D750CC9AC</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

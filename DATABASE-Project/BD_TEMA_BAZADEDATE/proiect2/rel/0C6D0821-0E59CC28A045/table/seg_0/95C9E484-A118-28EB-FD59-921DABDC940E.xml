@@ -1,0 +1,131 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="95C9E484-A118-28EB-FD59-921DABDC940E" name="Membri">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>8F2E32F5-BA5C-8401-3687-6CBA79AB6E51</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID_membru" id="11ECEC43-9B8E-40A6-5EB4-B1F2E290A5E8">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>A7B26DCB-69EE-332C-DD5B-3B2108B4653C</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Nume" id="6D936918-06DD-139B-5557-2F4533E8A4CE">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>7CF74263-2825-F9F3-951D-D7F0F4ABE331</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<checkConstraint>
+<implementationDef dbType="Generic Constraint" definition="length(Nume)&gt;1 AND REGEXP_LIKE (Nume, &apos;^[a-zA-Z ]*$&apos; )"/>
+</checkConstraint>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Prenume" id="2BA91AEF-55CD-A51F-CC47-338DB11E4821">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>B23BA657-7997-96CD-15FD-8FDC76C3EA60</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<checkConstraint>
+<implementationDef dbType="Generic Constraint" definition="length(Prenume)&gt;1 AND REGEXP_LIKE ( Prenume, &apos;^[a-zA-Z ]*$&apos; )"/>
+</checkConstraint>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Nr_telefon" id="9E52EE30-C94F-622D-4F08-69D4DF965063">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>0A202149-D616-3240-4E99-EBE16C66354A</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<constraintName>CheckNumbers</constraintName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<checkConstraint>
+<implementationDef dbType="Generic Constraint" definition="length(Nr_telefon) = 10 AND REGEXP_LIKE ( Nr_telefon,  &apos;^[0][:7:3:2][0-9 ]*$&apos;) "/>
+</checkConstraint>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_inregistrarii" id="B0FC6009-DFCD-9629-BAB9-E31C10024120">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>4F596BA0-F3CB-8858-4F76-9853A4FE0927</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_Nasterii" id="3A83B821-97F9-8220-9B13-08BECCF51311">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>4E2EDBBB-4031-4AA8-C4CF-11812990743A</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Gen" id="8164FF12-662D-B423-C828-EE4A5A91F235">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>AF167F38-E5B7-6250-1FAC-E2543BE4E547</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="39AB2135-D6FB-47CE-31F7-B7AF984834CF" name="Membri_PK">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>3CE72BBC-96EF-08AC-D8C2-A2FB248D33EA</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="11ECEC43-9B8E-40A6-5EB4-B1F2E290A5E8"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="39902D49-5A8A-F047-350E-7E2BADCC4981" name="Membri_Nr_telefon_UN">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>E979C0D9-54F5-E49F-A9D6-3AEAC09F7363</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9E52EE30-C94F-622D-4F08-69D4DF965063"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

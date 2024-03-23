@@ -1,0 +1,26 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TriggerOraclev10g class="oracle.dbtools.crest.model.design.storage.oracle.v10g.TriggerOraclev10g" name="Trg_Membri_BRIU" directorySegmentName="seg_0" id="1DF48746-D74F-F5D2-0723-3063316931EB">
+<createdBy>LEO</createdBy>
+<createdTime>2023-11-11 15:39:32 UTC</createdTime>
+<ownerDesignName>proiect2</ownerDesignName>
+<actions>INSERT, UPDATE</actions>
+<body><![CDATA[BEGIN
+  IF( :new.Data_Nasterii < date '1948-01-01' or 
+      :new.Data_Nasterii > date '2005-01-01' )
+  THEN
+    RAISE_APPLICATION_ERROR( 
+      -20001, 
+      'Clientul trebuie sa aiba varsta minima de 18 ani si sa nu fie mai in varsta de 75 de ani' );
+  
+  END IF;
+
+  IF( :new.Data_inregistrarii > SYSDATE)
+  	THEN RAISE_APPLICATION_ERROR(-20001,
+  		'Data invalida: ' || TO_CHAR ( :new.Data_inregistrarii, 'DD.MM.YYYY HH24:MI:SS') || 'trebuie sa fie mai mica decat data curenta');
+  	
+  	END IF;
+
+END; ]]></body>
+<triggerTime>BEFORE</triggerTime>
+<table>95C9E484-A118-28EB-FD59-921DABDC940E</table>
+</TriggerOraclev10g>

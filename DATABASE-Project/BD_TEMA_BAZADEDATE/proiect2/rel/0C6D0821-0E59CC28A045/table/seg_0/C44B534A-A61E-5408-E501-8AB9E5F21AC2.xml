@@ -1,0 +1,102 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="C44B534A-A61E-5408-E501-8AB9E5F21AC2" name="Autori">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>1F1DA67D-D031-7CDA-130F-910E29D90525</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID_autor" id="F62F904E-5AF2-4ABB-82B8-DD64BC2626B3">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>D90DE799-DB20-565A-C8EC-989988806959</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Carti_ID_Carte" id="6FC53661-774A-0E03-0211-8B79748CCAEE">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>6D6D9B88-0082-48F4-BDEC-AAD041940B65</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="419CEE8C-CE61-9575-EE66-2E6802A8B883" referredColumn="55002196-EB78-DF52-BC59-D9F382D5A14A"/>
+</associations>
+</Column>
+<Column name="Nume_autor" id="C9F878DC-29C6-B6C6-326B-0D6285C8C8D1">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>AA3D4334-5248-9595-DE3D-FA4B0EB07EEC</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Prenume_autor" id="DA196401-6214-7FBB-C8AE-2931C11F95D3">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>0FAD8C2E-CFF9-BA8C-AB4D-3F9A536EDDB0</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Biografie" id="B967F9A0-E105-B784-6D1E-E2D5205704AC">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>172E1994-5A7C-54BC-F595-E61100D57975</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>1000</dataTypeSize>
+<ownDataTypeParameters>1000,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="1E48367F-45DE-E6BC-C288-2FAEBFFFFCA2" name="Autori_PK">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>6B5C94F3-CF15-8614-68DA-9A66FBD66AC7</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="F62F904E-5AF2-4ABB-82B8-DD64BC2626B3"/>
+<colUsage columnID="6FC53661-774A-0E03-0211-8B79748CCAEE"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="55416252-0622-FCCE-2C7C-EFD14DFFB182" name="Autori_Carti_FK">
+<createdBy>LEO</createdBy>
+<createdTime>2023-12-20 08:36:26 UTC</createdTime>
+<generatorID>73EA9A06-EBFB-4801-D7EB-EA5960F5AC88</generatorID>
+<ownerDesignName>proiect2</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6FC53661-774A-0E03-0211-8B79748CCAEE"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
