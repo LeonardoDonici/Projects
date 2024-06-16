@@ -1,0 +1,123 @@
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\ProjectTesting.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\ProjectTesting.pdb
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\Proiect.exe
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\System.Data.SQLite.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\Newtonsoft.Json.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\Proiect.pdb
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\Proiect.exe.config
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\System.Data.SQLite.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\bin\Debug\Newtonsoft.Json.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.csproj.AssemblyReference.cache
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.csproj.CoreCompileInputs.cache
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.csproj.CopyComplete
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\ProjectTesting.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\ProjectTesting.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\Proiect.exe
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\System.Data.SQLite.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\Proiect.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\Proiect.exe.config
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\System.Data.SQLite.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.csproj.AssemblyReference.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\obj\Debug\ProjectT.61AA5AA8.Up2Date
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.pdb
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\ProjectTesting.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\ProjectTesting.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\ProjectTesting.pdb
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\AccessManagement.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Calendar.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Database.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Email.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Habits.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Journal.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Proiect.exe
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\QuotesAPI.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\QuotesGenerator.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\System.Data.SQLite.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Proiect.pdb
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Proiect.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Proiect.exe.config
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\System.Data.SQLite.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.csproj.AssemblyReference.cache
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.csproj.CoreCompileInputs.cache
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\obj\Debug\ProjectT.61AA5AA8.Up2Date
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.pdb
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\System.CodeDom.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\EntityFramework.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\System.CodeDom.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\ProjectTesting\bin\Debug\EntityFramework.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.csproj.AssemblyReference.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\obj\Debug\ProjectTesting.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\ProjectTesting.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\ProjectTesting.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\ProjectTesting.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\AccessManagement.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Calendar.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Database.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Email.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Habits.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Journal.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Proiect.exe
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\QuotesAPI.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\QuotesGenerator.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\System.CodeDom.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\System.Data.SQLite.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\EntityFramework.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Proiect.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Proiect.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Proiect.exe.config
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\System.CodeDom.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\System.Data.SQLite.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\EntityFramework.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\ProjectTesting\obj\Debug\ProjectT.61AA5AA8.Up2Date

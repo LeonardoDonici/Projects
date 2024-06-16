@@ -1,0 +1,818 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="md__c_1_2_users_2_l_e_o_2_desktop_2project_2_proiect_final_final_2_proiect-_i_p_2packages_2_newt46e84e8ba3dfc0f14bee516a31fbd9d1.html"><param name="Name" value="&lt;img src=&quot;https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/master/Doc/icons/logo.jpg&quot; alt=&quot;Logo&quot;/&gt; Json.NET"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a7709bc77a30d4a8565d32a9f028fbec9"><param name="Name" value="AdminPanel()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#afb8072d215549b05b3f8824f21dafa89"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#afb8072d215549b05b3f8824f21dafa89"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#aa9742eef90052512e0cd38af91ced082"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#aa9742eef90052512e0cd38af91ced082"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ac2c6c827c3e467d0407a1f153d2bf2e4"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ac2c6c827c3e467d0407a1f153d2bf2e4"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a45d96dee7d0545d4373e98b7627d16ba"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a45d96dee7d0545d4373e98b7627d16ba"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#adfd5b9ee6880776ecc79c22af7afde7c"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#adfd5b9ee6880776ecc79c22af7afde7c"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a357171489b555f9094e50d0aa1284d5f"><param name="Name" value="Form1_Load(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a5ac78e1800b3c24b96b09bf83737058b"><param name="Name" value="Form2_Load(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a9827f927c9c2691d621e032935bb66aa"><param name="Name" value="Form4_FormClosing(object sender, FormClosingEventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#af1c5f50e1a4aada2ea6a8d2367a86d9e"><param name="Name" value="Form4_Load(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a8f8b6b2b2c8a83c8af0102e23773b0f6"><param name="Name" value="FormRecuperareParola()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a35e1256c5d5f7e674c515fbcb049798e"><param name="Name" value="FormRecuperareParola_Load(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a70aaab256cf0e408b9181de30a87b96e"><param name="Name" value="HabitTracker(string curentUser)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#a41d006b6037e2e152c0b84f20f9f0770"><param name="Name" value="IncorrectLogIn()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#ab180ad5b5f6ede194bf9049e881e5aef"><param name="Name" value="IncorrectLogIn2()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ac69167f86845d3d6e011e0ada82aeebc"><param name="Name" value="Info"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a1e3a5b9aebebedfd3aa117dc2b669c4d"><param name="Name" value="Info_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a20372fb2c251954b05046953327323e5"><param name="Name" value="InitializeComponent()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a20372fb2c251954b05046953327323e5"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a5c6c0c1c4b29bb17beef46ac2c444d5a"><param name="Name" value="InitializeComponent()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a5c6c0c1c4b29bb17beef46ac2c444d5a"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a2c5fc96903a0e4ca28f2888255ea1121"><param name="Name" value="InitializeComponent()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a2c5fc96903a0e4ca28f2888255ea1121"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#aeaf970018d26efd6b599813df7e38bda"><param name="Name" value="InitializeComponent()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#aeaf970018d26efd6b599813df7e38bda"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#abf58d297d97cf4c921766b3e603f2540"><param name="Name" value="InitializeComponent()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#abf58d297d97cf4c921766b3e603f2540"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a9b68ac1250f274e9bd830d9b4d651a9c"><param name="Name" value="Inregistrare()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="md__c_1_2_users_2_l_e_o_2_desktop_2project_2_proiect_final_final_2_proiect-_i_p_2packages_2_newt44d8b67ab6d13352570a48ee76c55877.html"><param name="Name" value="LICENSE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ab54a9a7cfe7954fdf4785fdc2ac7fd70"><param name="Name" value="LogIn()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_proiect.html"><param name="Name" value="Proiect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a7709bc77a30d4a8565d32a9f028fbec9"><param name="Name" value="AdminPanel()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#afb8072d215549b05b3f8824f21dafa89"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a20372fb2c251954b05046953327323e5"><param name="Name" value="InitializeComponent()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#ad255f15932cb788552b77d6ac92b239f"><param name="Name" value="button1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a902705dc6f0ed886d942a5ef8826d77c"><param name="Name" value="button1_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a5654d0ba71d5d8b5c2e0bd48cd75dc24"><param name="Name" value="comboBox1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#ad8a12e5d796b6fea392aa2408698daf1"><param name="Name" value="components"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a938661a6ad9bb72ac7390cd65abd5579"><param name="Name" value="label1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#adc68a99a3afccfc2ff6816d5d2e2a418"><param name="Name" value="populateComboBox()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#aa9742eef90052512e0cd38af91ced082"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a8f8b6b2b2c8a83c8af0102e23773b0f6"><param name="Name" value="FormRecuperareParola()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a35e1256c5d5f7e674c515fbcb049798e"><param name="Name" value="FormRecuperareParola_Load(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a5c6c0c1c4b29bb17beef46ac2c444d5a"><param name="Name" value="InitializeComponent()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a272f4c4e6aee160b9a6b6cd6c547bfe7"><param name="Name" value="_secretNumber"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a670ea8a6091ff4c9b4f71392b0574ade"><param name="Name" value="button1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#af03eec14e0f3c2cba600198f6ba3a0a7"><param name="Name" value="buttonTrimiteCod_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#aeba0d5aff5bb357fb75f35abda92a389"><param name="Name" value="buttonTrimiteMail_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a333a065e94f7da15fc978615db0eb1ae"><param name="Name" value="buttonValidare"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#ae3c4058183182e01351f681805126f08"><param name="Name" value="components"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#af8117f88c3d7d7567f72f6473f6a429f"><param name="Name" value="dBAccessManager"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a21dc1329996f383997e36b52979022a0"><param name="Name" value="textBox1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#aa6cd7c11c581544ffac178bfafbdc467"><param name="Name" value="textBoxCod"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#aa5799156ae98e5e2833ccd957f5f8044"><param name="Name" value="textBoxCodText"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a1b41d02c299f2fe856773ca4aada1876"><param name="Name" value="textboxUsername"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ac2c6c827c3e467d0407a1f153d2bf2e4"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a9827f927c9c2691d621e032935bb66aa"><param name="Name" value="Form4_FormClosing(object sender, FormClosingEventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#af1c5f50e1a4aada2ea6a8d2367a86d9e"><param name="Name" value="Form4_Load(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a70aaab256cf0e408b9181de30a87b96e"><param name="Name" value="HabitTracker(string curentUser)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a2c5fc96903a0e4ca28f2888255ea1121"><param name="Name" value="InitializeComponent()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a8032ce3f4fa9558c169af40e7b7a7fff"><param name="Name" value="_currentUser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ac10980ecb20e7cede2e12321ee68b455"><param name="Name" value="_habitsManager"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a12272714e3e356331ffb64db7cf1003d"><param name="Name" value="addNewHabit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ab63128e34583448f9a13f4a15941de5d"><param name="Name" value="addNewHabit_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#afe452cc4929681dfeaa429f9d329ba54"><param name="Name" value="button1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a2c7cc8eaca1d4424200d2f5e5b2fe3fb"><param name="Name" value="button1_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#abcd985336fa02f2557dc1f8469833061"><param name="Name" value="buttonDelete"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a0699470b17a615515bd461947500da49"><param name="Name" value="buttonDelete_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aec35cb24462d986094ab630a4fa4f3c2"><param name="Name" value="buttonGenerate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a74a51243c9da872ce66e3773f8bbb7dd"><param name="Name" value="buttonGenerate_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a63ab735ce48ca335c08f73f2b5d8181a"><param name="Name" value="buttonHelp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a70a899173fe711ea13add03393fc9f43"><param name="Name" value="buttonHelp_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#adc6a6b85dfb219e675d07024e393e0ed"><param name="Name" value="buttonSaveJurnal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aebc44e2f32d1af2a5bd82ae45ed0002f"><param name="Name" value="buttonSaveJurnal_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aa2061a411ed49747bdd6ed2f31df63b6"><param name="Name" value="calendar"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a76b00a67df0466e70234baffb1825cee"><param name="Name" value="checkBox1_Click(object sender, System.EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a52d1631d35cf17ed68fbf895d7ca8c4b"><param name="Name" value="checkHabit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a7220de92156c8aee6c7c034417e033a7"><param name="Name" value="checkHabit_CheckedChanged(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#acfce4bbf2b2ff74b669465972ebc82a3"><param name="Name" value="comboBox1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aa3862c2a96d2892b124ed963903d947f"><param name="Name" value="comboBox1_SelectedIndexChanged(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a49bed9d57994f21be80a0aca8e329457"><param name="Name" value="components"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a509b24a651c835cb14a8bc91fe871e14"><param name="Name" value="currentDate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#adf75ae5a372dcfb5e53cff80f049b737"><param name="Name" value="currentStreak"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aef3355bc21099dbfb376264109d77341"><param name="Name" value="habitFrequency"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a918a48719dacdc48a75e1b195c01de5c"><param name="Name" value="habitFrequencyLabel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aa37086c09dce8653679ef3a3e13788c0"><param name="Name" value="habitInfoLabel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a2ca075d5ab87fbaa85383d7255beca91"><param name="Name" value="habitName"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aa93dea0e51e8f37b5a43bdf386a74898"><param name="Name" value="habitNameLabel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a2036e66f8da5989164a2eb5f042b6dfe"><param name="Name" value="hideNewHabit()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ae667448fb5712bc9739846eb82f49b85"><param name="Name" value="hideRich()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aec3b5d75e6305d87dc30c6b24907c364"><param name="Name" value="hideStats()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a5f53ac307c7bb2aeb873aa70d05ce62c"><param name="Name" value="journal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a47942979f4bad3cacdb57246d21f448f"><param name="Name" value="journalHabit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a262c028b4fe6f1a273945c40ee74f001"><param name="Name" value="journalHabit_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a50b1c418b890bf53def31d405f02f75a"><param name="Name" value="label1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a1bc1b93eef0b21977e2efffb2260b1ed"><param name="Name" value="label1_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a7cd08a437eaec373995aae2bac71c252"><param name="Name" value="maximStreak"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a25a0a81404322feb29ab82390ea9af54"><param name="Name" value="monthBack"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a7d4ad6245e44ec8620dd0b2e964c4efc"><param name="Name" value="monthBack_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a04787cd31297fbddfd53b99ededa2059"><param name="Name" value="monthForward"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a43dbd520902633d6e2824f50ac9acaa4"><param name="Name" value="monthForward_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a58e2a63efb500a698292cb45f8c00f47"><param name="Name" value="motivatorStrategy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ab5acf727aa6c6f95958f3f93dc173fd6"><param name="Name" value="qouteLabel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ad2247b21af051d53ceb9ce7448e45de9"><param name="Name" value="quotesBox"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ae99524b59d1ab036363bc472b3b33403"><param name="Name" value="richJurnal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a3a968496bbe47f7b30aafd6aee19b2f6"><param name="Name" value="setMotivator(MotivatorStrategy m)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a7395fed86ce9b38b4114b368469d9350"><param name="Name" value="showNewHabit()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aee67ea103b0023a959d40a0e5ce51541"><param name="Name" value="showRich()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a8acafca909351392974070194a60cfe0"><param name="Name" value="showStats()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a45c64da9bb9499376a83eb433b6ef577"><param name="Name" value="updateCalendar()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a8cba225baf2641644174a5efd50446a1"><param name="Name" value="updateStreakBoxes()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a45d96dee7d0545d4373e98b7627d16ba"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a5ac78e1800b3c24b96b09bf83737058b"><param name="Name" value="Form2_Load(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#aeaf970018d26efd6b599813df7e38bda"><param name="Name" value="InitializeComponent()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a9b68ac1250f274e9bd830d9b4d651a9c"><param name="Name" value="Inregistrare()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a069bb96bd8ae096698c784bfab03e1e4"><param name="Name" value="_proxyAccessManager"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#acc87941b783fac86f6eedf671f305c0d"><param name="Name" value="buttonRegisterUser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a6d707e77e33a55cbc1ab456f58ae5f16"><param name="Name" value="buttonRegisterUserClick(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#ac93afd44d4ba907aedd744b4ffab0484"><param name="Name" value="components"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#abc22acae5d890d81a99282b0d722a445"><param name="Name" value="label1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#ae8369669c45b107210b7a35e94f2285b"><param name="Name" value="label2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a57b0a3782fbd494b76014bfc1daa7430"><param name="Name" value="label3"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a479af36c55703630cb9383d12de776cb"><param name="Name" value="label4"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#ae734b68b966d4745c163cfadeb400872"><param name="Name" value="label5"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a2f6aa13a1eda27db09ccbaf618b7d319"><param name="Name" value="label6"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a5f0bb72e25f8fcb8188dc94ab86c26b3"><param name="Name" value="textBoxEmail"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a4f49f909c7c817ee139bb61eae5e82cf"><param name="Name" value="textBoxParola"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a56746ec327e84a6cbbc35e262dfccf49"><param name="Name" value="textBoxParola2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#ad917e34989f9d457365c5a050599aa0e"><param name="Name" value="textBoxPrenume"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a246060db2fbfd38259866b9062574b80"><param name="Name" value="textBoxUserName"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#adfd5b9ee6880776ecc79c22af7afde7c"><param name="Name" value="Dispose(bool disposing)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a357171489b555f9094e50d0aa1284d5f"><param name="Name" value="Form1_Load(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ac69167f86845d3d6e011e0ada82aeebc"><param name="Name" value="Info"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a1e3a5b9aebebedfd3aa117dc2b669c4d"><param name="Name" value="Info_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#abf58d297d97cf4c921766b3e603f2540"><param name="Name" value="InitializeComponent()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ab54a9a7cfe7954fdf4785fdc2ac7fd70"><param name="Name" value="LogIn()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ad5d0cb390a4edf049e9da5985da322be"><param name="Name" value="_proxyAccessManager"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ab97ba342dc597f6edee1abbca999117e"><param name="Name" value="butonDespre"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a5ee21ba679dc0bb2b0093d42f629aef8"><param name="Name" value="butonDespre_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a2e3221c81bf6dd88407a3fa166465def"><param name="Name" value="buttonForgotPassword"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a09c65146468868fe79b563c06e39c897"><param name="Name" value="buttonForgotPassword_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a367910ed6ca90e9513867998653193b0"><param name="Name" value="buttonInfo_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#af7f9c43eec491f4776e80312db2d510d"><param name="Name" value="buttonLoggIn"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a662d3677ee52325678fc3cf6b196106c"><param name="Name" value="buttonLoginClick(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ada3d997f2e78a8b5cfcd3bf7ea77f67c"><param name="Name" value="buttonRegister"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#abe35b082394c5909c04259b378282c70"><param name="Name" value="buttonRegister_Click(object sender, EventArgs e)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a42c2914e6bef59de164c9665e026cb32"><param name="Name" value="components"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ad5abe39c1be186e2b64345e484452eb5"><param name="Name" value="label1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a5a0842749562b464a319e6a0774899f8"><param name="Name" value="label2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a3efeac80995b63b3e8add891a1979152"><param name="Name" value="textBoxPassword"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a9eaeb68779d7fb3f7d76c8af3dc22dce"><param name="Name" value="textBoxUser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_proiect_1_1_properties.html"><param name="Name" value="Proiect::Properties"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_project_testing.html"><param name="Name" value="ProjectTesting"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_d_b_tests.html"><param name="Name" value="ProjectTesting::DBTests"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_d_b_tests.html"><param name="Name" value="ProjectTesting::DBTests"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_d_b_tests.html#a41ac308cd1a99d692a4f82287f31eb42"><param name="Name" value="TestClosing()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_d_b_tests.html"><param name="Name" value="ProjectTesting::DBTests"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_d_b_tests.html#a98eca34e450e37ddaff7b354d0c2c562"><param name="Name" value="TestOpen()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_d_b_tests.html"><param name="Name" value="ProjectTesting::DBTests"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_d_b_tests.html#abe44b3882d0ab989c5ec16e1774e32d1"><param name="Name" value="db"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html"><param name="Name" value="ProjectTesting::UnitTestAccess"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html"><param name="Name" value="ProjectTesting::UnitTestAccess"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#a41d006b6037e2e152c0b84f20f9f0770"><param name="Name" value="IncorrectLogIn()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html"><param name="Name" value="ProjectTesting::UnitTestAccess"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#ab180ad5b5f6ede194bf9049e881e5aef"><param name="Name" value="IncorrectLogIn2()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html"><param name="Name" value="ProjectTesting::UnitTestAccess"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#aa1f17d10411985b8f6d8c8dc064a32d0"><param name="Name" value="TestLogIn()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html"><param name="Name" value="ProjectTesting::UnitTestAccess"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#a72e4feabe9d423d615816437a1154526"><param name="Name" value="TestLogInIncorrect()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html"><param name="Name" value="ProjectTesting::UnitTestAccess"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#a7ba20088038523857ab1da890f5cf3da"><param name="Name" value="TestRegister1()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html"><param name="Name" value="ProjectTesting::UnitTestAccess"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#a734dce1c0313750a791f32b9c56254f0"><param name="Name" value="TestRegister2()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html"><param name="Name" value="ProjectTesting::UnitTestAccess"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#a5a73a66881afbed0f46550f2dc73a785"><param name="Name" value="TestRegister3()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_calendar.html"><param name="Name" value="ProjectTesting::UnitTestCalendar"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_calendar.html"><param name="Name" value="ProjectTesting::UnitTestCalendar"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_calendar.html#aa409f92091ac74b8b4335f0e4a421bc9"><param name="Name" value="invalidConstructor()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_calendar.html"><param name="Name" value="ProjectTesting::UnitTestCalendar"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_calendar.html#a2f1351a077496911d44d64d4b530617b"><param name="Name" value="testLabelString()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_calendar.html"><param name="Name" value="ProjectTesting::UnitTestCalendar"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_calendar.html#a63b3c7d41309151efdd48398c832d6a2"><param name="Name" value="testLabelString2()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_calendar.html"><param name="Name" value="ProjectTesting::UnitTestCalendar"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_calendar.html#ad2e823a05dff976a066d60d335684875"><param name="Name" value="testLabelString3()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html"><param name="Name" value="ProjectTesting::UnitTestHabits"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html"><param name="Name" value="ProjectTesting::UnitTestHabits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#a5de98b13560b7751576b8626706f7c0b"><param name="Name" value="TestHabitCheckedDays1()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html"><param name="Name" value="ProjectTesting::UnitTestHabits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#a22a45251e4a2998d7df3fe15b8bc90f9"><param name="Name" value="TestHabitCheckedDays2()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html"><param name="Name" value="ProjectTesting::UnitTestHabits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#a6c833c8f1775d6709c11b7bd9799cdbc"><param name="Name" value="TestHabitCheckedToday()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html"><param name="Name" value="ProjectTesting::UnitTestHabits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#adc4d15bb85df1dbc80d3f2273b21ad7d"><param name="Name" value="TestHabitLostStreak()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html"><param name="Name" value="ProjectTesting::UnitTestHabits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#a08244e3f389af86046cf9287e6cff408"><param name="Name" value="TestHabitName()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html"><param name="Name" value="ProjectTesting::UnitTestHabits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#ae4111557ed14679027e9f2131f8824c0"><param name="Name" value="TestHabitNotLostStreak()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html"><param name="Name" value="ProjectTesting::UnitTestHabits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#a854b45259c63735b59dbee2bf73c811a"><param name="Name" value="TestHabitStartDay()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_d_b_tests.html#a41ac308cd1a99d692a4f82287f31eb42"><param name="Name" value="TestClosing()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#a5de98b13560b7751576b8626706f7c0b"><param name="Name" value="TestHabitCheckedDays1()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#a22a45251e4a2998d7df3fe15b8bc90f9"><param name="Name" value="TestHabitCheckedDays2()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#a6c833c8f1775d6709c11b7bd9799cdbc"><param name="Name" value="TestHabitCheckedToday()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#adc4d15bb85df1dbc80d3f2273b21ad7d"><param name="Name" value="TestHabitLostStreak()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#a08244e3f389af86046cf9287e6cff408"><param name="Name" value="TestHabitName()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#ae4111557ed14679027e9f2131f8824c0"><param name="Name" value="TestHabitNotLostStreak()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_habits.html#a854b45259c63735b59dbee2bf73c811a"><param name="Name" value="TestHabitStartDay()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#aa1f17d10411985b8f6d8c8dc064a32d0"><param name="Name" value="TestLogIn()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#a72e4feabe9d423d615816437a1154526"><param name="Name" value="TestLogInIncorrect()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_d_b_tests.html#a98eca34e450e37ddaff7b354d0c2c562"><param name="Name" value="TestOpen()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#a7ba20088038523857ab1da890f5cf3da"><param name="Name" value="TestRegister1()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#a734dce1c0313750a791f32b9c56254f0"><param name="Name" value="TestRegister2()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_access.html#a5a73a66881afbed0f46550f2dc73a785"><param name="Name" value="TestRegister3()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a8032ce3f4fa9558c169af40e7b7a7fff"><param name="Name" value="_currentUser"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ac10980ecb20e7cede2e12321ee68b455"><param name="Name" value="_habitsManager"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a069bb96bd8ae096698c784bfab03e1e4"><param name="Name" value="_proxyAccessManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a069bb96bd8ae096698c784bfab03e1e4"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ad5d0cb390a4edf049e9da5985da322be"><param name="Name" value="_proxyAccessManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ad5d0cb390a4edf049e9da5985da322be"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a272f4c4e6aee160b9a6b6cd6c547bfe7"><param name="Name" value="_secretNumber"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a12272714e3e356331ffb64db7cf1003d"><param name="Name" value="addNewHabit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ab63128e34583448f9a13f4a15941de5d"><param name="Name" value="addNewHabit_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ab97ba342dc597f6edee1abbca999117e"><param name="Name" value="butonDespre"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a5ee21ba679dc0bb2b0093d42f629aef8"><param name="Name" value="butonDespre_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#ad255f15932cb788552b77d6ac92b239f"><param name="Name" value="button1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#ad255f15932cb788552b77d6ac92b239f"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a670ea8a6091ff4c9b4f71392b0574ade"><param name="Name" value="button1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a670ea8a6091ff4c9b4f71392b0574ade"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#afe452cc4929681dfeaa429f9d329ba54"><param name="Name" value="button1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#afe452cc4929681dfeaa429f9d329ba54"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a902705dc6f0ed886d942a5ef8826d77c"><param name="Name" value="button1_Click(object sender, EventArgs e)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a902705dc6f0ed886d942a5ef8826d77c"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a2c7cc8eaca1d4424200d2f5e5b2fe3fb"><param name="Name" value="button1_Click(object sender, EventArgs e)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a2c7cc8eaca1d4424200d2f5e5b2fe3fb"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#abcd985336fa02f2557dc1f8469833061"><param name="Name" value="buttonDelete"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a0699470b17a615515bd461947500da49"><param name="Name" value="buttonDelete_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a2e3221c81bf6dd88407a3fa166465def"><param name="Name" value="buttonForgotPassword"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a09c65146468868fe79b563c06e39c897"><param name="Name" value="buttonForgotPassword_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aec35cb24462d986094ab630a4fa4f3c2"><param name="Name" value="buttonGenerate"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a74a51243c9da872ce66e3773f8bbb7dd"><param name="Name" value="buttonGenerate_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a63ab735ce48ca335c08f73f2b5d8181a"><param name="Name" value="buttonHelp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a70a899173fe711ea13add03393fc9f43"><param name="Name" value="buttonHelp_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a367910ed6ca90e9513867998653193b0"><param name="Name" value="buttonInfo_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#af7f9c43eec491f4776e80312db2d510d"><param name="Name" value="buttonLoggIn"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a662d3677ee52325678fc3cf6b196106c"><param name="Name" value="buttonLoginClick(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ada3d997f2e78a8b5cfcd3bf7ea77f67c"><param name="Name" value="buttonRegister"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#acc87941b783fac86f6eedf671f305c0d"><param name="Name" value="buttonRegisterUser"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a6d707e77e33a55cbc1ab456f58ae5f16"><param name="Name" value="buttonRegisterUserClick(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#abe35b082394c5909c04259b378282c70"><param name="Name" value="buttonRegister_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#adc6a6b85dfb219e675d07024e393e0ed"><param name="Name" value="buttonSaveJurnal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aebc44e2f32d1af2a5bd82ae45ed0002f"><param name="Name" value="buttonSaveJurnal_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#af03eec14e0f3c2cba600198f6ba3a0a7"><param name="Name" value="buttonTrimiteCod_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#aeba0d5aff5bb357fb75f35abda92a389"><param name="Name" value="buttonTrimiteMail_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a333a065e94f7da15fc978615db0eb1ae"><param name="Name" value="buttonValidare"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aa2061a411ed49747bdd6ed2f31df63b6"><param name="Name" value="calendar"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a76b00a67df0466e70234baffb1825cee"><param name="Name" value="checkBox1_Click(object sender, System.EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a52d1631d35cf17ed68fbf895d7ca8c4b"><param name="Name" value="checkHabit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a7220de92156c8aee6c7c034417e033a7"><param name="Name" value="checkHabit_CheckedChanged(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a5654d0ba71d5d8b5c2e0bd48cd75dc24"><param name="Name" value="comboBox1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a5654d0ba71d5d8b5c2e0bd48cd75dc24"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#acfce4bbf2b2ff74b669465972ebc82a3"><param name="Name" value="comboBox1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#acfce4bbf2b2ff74b669465972ebc82a3"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aa3862c2a96d2892b124ed963903d947f"><param name="Name" value="comboBox1_SelectedIndexChanged(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#ad8a12e5d796b6fea392aa2408698daf1"><param name="Name" value="components"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#ad8a12e5d796b6fea392aa2408698daf1"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#ae3c4058183182e01351f681805126f08"><param name="Name" value="components"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#ae3c4058183182e01351f681805126f08"><param name="Name" value="Proiect::FormRecuperareParola"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a49bed9d57994f21be80a0aca8e329457"><param name="Name" value="components"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a49bed9d57994f21be80a0aca8e329457"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#ac93afd44d4ba907aedd744b4ffab0484"><param name="Name" value="components"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#ac93afd44d4ba907aedd744b4ffab0484"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a42c2914e6bef59de164c9665e026cb32"><param name="Name" value="components"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a42c2914e6bef59de164c9665e026cb32"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a509b24a651c835cb14a8bc91fe871e14"><param name="Name" value="currentDate"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#adf75ae5a372dcfb5e53cff80f049b737"><param name="Name" value="currentStreak"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#af8117f88c3d7d7567f72f6473f6a429f"><param name="Name" value="dBAccessManager"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_d_b_tests.html#abe44b3882d0ab989c5ec16e1774e32d1"><param name="Name" value="db"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aef3355bc21099dbfb376264109d77341"><param name="Name" value="habitFrequency"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a918a48719dacdc48a75e1b195c01de5c"><param name="Name" value="habitFrequencyLabel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aa37086c09dce8653679ef3a3e13788c0"><param name="Name" value="habitInfoLabel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a2ca075d5ab87fbaa85383d7255beca91"><param name="Name" value="habitName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aa93dea0e51e8f37b5a43bdf386a74898"><param name="Name" value="habitNameLabel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a2036e66f8da5989164a2eb5f042b6dfe"><param name="Name" value="hideNewHabit()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ae667448fb5712bc9739846eb82f49b85"><param name="Name" value="hideRich()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aec3b5d75e6305d87dc30c6b24907c364"><param name="Name" value="hideStats()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_calendar.html#aa409f92091ac74b8b4335f0e4a421bc9"><param name="Name" value="invalidConstructor()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a5f53ac307c7bb2aeb873aa70d05ce62c"><param name="Name" value="journal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a47942979f4bad3cacdb57246d21f448f"><param name="Name" value="journalHabit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a262c028b4fe6f1a273945c40ee74f001"><param name="Name" value="journalHabit_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a938661a6ad9bb72ac7390cd65abd5579"><param name="Name" value="label1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#a938661a6ad9bb72ac7390cd65abd5579"><param name="Name" value="Proiect::AdminPanel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a50b1c418b890bf53def31d405f02f75a"><param name="Name" value="label1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a50b1c418b890bf53def31d405f02f75a"><param name="Name" value="Proiect::HabitTracker"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#abc22acae5d890d81a99282b0d722a445"><param name="Name" value="label1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#abc22acae5d890d81a99282b0d722a445"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ad5abe39c1be186e2b64345e484452eb5"><param name="Name" value="label1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#ad5abe39c1be186e2b64345e484452eb5"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a1bc1b93eef0b21977e2efffb2260b1ed"><param name="Name" value="label1_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#ae8369669c45b107210b7a35e94f2285b"><param name="Name" value="label2"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#ae8369669c45b107210b7a35e94f2285b"><param name="Name" value="Proiect::Inregistrare"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a5a0842749562b464a319e6a0774899f8"><param name="Name" value="label2"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a5a0842749562b464a319e6a0774899f8"><param name="Name" value="Proiect::LogIn"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a57b0a3782fbd494b76014bfc1daa7430"><param name="Name" value="label3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a479af36c55703630cb9383d12de776cb"><param name="Name" value="label4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#ae734b68b966d4745c163cfadeb400872"><param name="Name" value="label5"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a2f6aa13a1eda27db09ccbaf618b7d319"><param name="Name" value="label6"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a7cd08a437eaec373995aae2bac71c252"><param name="Name" value="maximStreak"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a25a0a81404322feb29ab82390ea9af54"><param name="Name" value="monthBack"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a7d4ad6245e44ec8620dd0b2e964c4efc"><param name="Name" value="monthBack_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a04787cd31297fbddfd53b99ededa2059"><param name="Name" value="monthForward"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a43dbd520902633d6e2824f50ac9acaa4"><param name="Name" value="monthForward_Click(object sender, EventArgs e)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a58e2a63efb500a698292cb45f8c00f47"><param name="Name" value="motivatorStrategy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_admin_panel.html#adc68a99a3afccfc2ff6816d5d2e2a418"><param name="Name" value="populateComboBox()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ab5acf727aa6c6f95958f3f93dc173fd6"><param name="Name" value="qouteLabel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ad2247b21af051d53ceb9ce7448e45de9"><param name="Name" value="quotesBox"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#ae99524b59d1ab036363bc472b3b33403"><param name="Name" value="richJurnal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a3a968496bbe47f7b30aafd6aee19b2f6"><param name="Name" value="setMotivator(MotivatorStrategy m)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a7395fed86ce9b38b4114b368469d9350"><param name="Name" value="showNewHabit()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#aee67ea103b0023a959d40a0e5ce51541"><param name="Name" value="showRich()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a8acafca909351392974070194a60cfe0"><param name="Name" value="showStats()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_calendar.html#a2f1351a077496911d44d64d4b530617b"><param name="Name" value="testLabelString()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_calendar.html#a63b3c7d41309151efdd48398c832d6a2"><param name="Name" value="testLabelString2()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_project_testing_1_1_unit_test_calendar.html#ad2e823a05dff976a066d60d335684875"><param name="Name" value="testLabelString3()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a21dc1329996f383997e36b52979022a0"><param name="Name" value="textBox1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#aa6cd7c11c581544ffac178bfafbdc467"><param name="Name" value="textBoxCod"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#aa5799156ae98e5e2833ccd957f5f8044"><param name="Name" value="textBoxCodText"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a5f0bb72e25f8fcb8188dc94ab86c26b3"><param name="Name" value="textBoxEmail"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a56746ec327e84a6cbbc35e262dfccf49"><param name="Name" value="textBoxParola2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a4f49f909c7c817ee139bb61eae5e82cf"><param name="Name" value="textBoxParola"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a3efeac80995b63b3e8add891a1979152"><param name="Name" value="textBoxPassword"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#ad917e34989f9d457365c5a050599aa0e"><param name="Name" value="textBoxPrenume"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_log_in.html#a9eaeb68779d7fb3f7d76c8af3dc22dce"><param name="Name" value="textBoxUser"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_inregistrare.html#a246060db2fbfd38259866b9062574b80"><param name="Name" value="textBoxUserName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_form_recuperare_parola.html#a1b41d02c299f2fe856773ca4aada1876"><param name="Name" value="textboxUsername"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a45c64da9bb9499376a83eb433b6ef577"><param name="Name" value="updateCalendar()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_proiect_1_1_habit_tracker.html#a8cba225baf2641644174a5efd50446a1"><param name="Name" value="updateStreakBoxes()"></OBJECT>
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,520 @@
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\obj\Debug\Proiect.Form1.resources
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\obj\Debug\Proiect.Form2.resources
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\obj\Debug\Proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\obj\Debug\Proiect.Form1.resources
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\obj\Debug\Proiect.Form2.resources
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\stefg\Desktop\New folder\Proiect\Proiect\obj\Debug\Proiect.csproj.CopyComplete
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Auth.dll
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Core.dll
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Google.Apis.dll
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\System.CodeDom.dll
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Google.Apis.pdb
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Google.Apis.xml
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Auth.xml
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Core.pdb
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Core.xml
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\bin\Debug\System.CodeDom.xml
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\obj\Debug\Proiect.Form3.resources
+C:\Users\LEO\Desktop\project\Proiect-IPenis\Proiect\Proiect\obj\Debug\Proiect.csproj.Up2Date
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Google.Apis.Auth.dll
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Google.Apis.Core.dll
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Google.Apis.dll
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\System.CodeDom.dll
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Google.Apis.pdb
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Google.Apis.xml
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Google.Apis.Auth.xml
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Google.Apis.Core.pdb
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Google.Apis.Core.xml
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\bin\Debug\System.CodeDom.xml
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\obj\Debug\Proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\obj\Debug\Proiect.Form1.resources
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\obj\Debug\Proiect.Form2.resources
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\obj\Debug\Proiect.Form3.resources
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\obj\Debug\Proiect.csproj.CopyComplete
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\stefg\Desktop\Proiect IP\Proiect\Proiect\obj\Debug\Proiect.FormRecuperareParola.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Core.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Google.Apis.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\System.CodeDom.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Google.Apis.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Google.Apis.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Google.Apis.Core.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\bin\Debug\System.CodeDom.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\obj\Debug\Proiect.Form1.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\obj\Debug\Proiect.Form2.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\obj\Debug\Proiect.Form3.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\obj\Debug\Proiect.FormRecuperareParola.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\obj\Debug\Proiect.csproj.Up2Date
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\obj\Debug\Proiect.Form1.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\obj\Debug\Proiect.Form2.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\obj\Debug\Proiect.FormRecuperareParola.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\obj\Debug\Proiect.exe
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Proiect.exe
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Google.Apis.Core.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Google.Apis.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\System.CodeDom.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Google.Apis.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Google.Apis.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Google.Apis.Core.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\bin\Debug\System.CodeDom.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\obj\Debug\Proiect.csproj.Up2Date
+C:\Users\Radu\Desktop\fagultate\IPenis\LEO\Proiect\obj\Debug\Proiect.Form4.resources
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Proiect.exe
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Proiect.pdb
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Auth.dll
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Core.dll
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.dll
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\System.CodeDom.dll
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.pdb
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.xml
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Auth.xml
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Core.pdb
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Core.xml
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\System.CodeDom.xml
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\obj\Debug\Proiect.Form1.resources
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\obj\Debug\Proiect.Form2.resources
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\obj\Debug\Proiect.Form4.resources
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\obj\Debug\Proiect.FormRecuperareParola.resources
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.Up2Date
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\obj\Debug\Proiect.exe
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\obj\Debug\Proiect.pdb
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.dll
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.dll
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.xml
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LEO\Desktop\project\project\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Proiect.exe
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Core.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\System.CodeDom.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Core.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\System.CodeDom.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.FormRecuperareParola.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.Up2Date
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.exe
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.pdb
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Proiect.exe
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Proiect.pdb
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.dll
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Auth.dll
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Core.dll
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.dll
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\System.CodeDom.dll
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.dll
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.xml
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.pdb
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.xml
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Auth.xml
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Core.pdb
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Core.xml
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\System.CodeDom.xml
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.xml
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.FormRecuperareParola.resources
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.Up2Date
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.exe
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.pdb
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.LogIn.resources
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.Inregistrare.resources
+C:\Users\LEO\Desktop\project\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.HabitTracker.resources
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Proiect.exe.config
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Proiect.exe
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Proiect.pdb
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.SqlServer.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Auth.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Core.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Newtonsoft.Json.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\System.CodeDom.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\EntityFramework.SqlServer.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.pdb
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Auth.pdb
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Auth.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Calendar.v3.pdb
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Core.pdb
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Google.Apis.Core.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\Newtonsoft.Json.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\System.CodeDom.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\bin\Debug\System.Data.SQLite.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.SuggestedBindingRedirects.cache
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\obj\Debug\Proiect.LogIn.resources
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\obj\Debug\Proiect.Inregistrare.resources
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\obj\Debug\Proiect.HabitTracker.resources
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\obj\Debug\Proiect.FormRecuperareParola.resources
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\obj\Debug\Proiect.csproj.CopyComplete
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\obj\Debug\Proiect.exe
+D:\ANUL3\IngineriaProgramarii\ProiectIPcomentarii\Proiect-IPenis\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.LogIn.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.Inregistrare.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.HabitTracker.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\PROIECT FINAL\Proiect-IPenis\Proiect\obj\Debug\Proiect.AdminPanel.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Proiect.exe
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\EntityFramework.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Google.Apis.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\System.CodeDom.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\EntityFramework.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Google.Apis.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Google.Apis.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\System.CodeDom.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\obj\Debug\Proiect.AdminPanel.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\obj\Debug\Proiect.LogIn.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\obj\Debug\Proiect.Inregistrare.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\obj\Debug\Proiect.HabitTracker.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\obj\Debug\Proiect.FormRecuperareParola.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.Up2Date
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\obj\Debug\Proiect.exe
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\obj\Debug\Proiect.pdb
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Proiect.exe.config
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Proiect.exe
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Proiect.pdb
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\EntityFramework.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\EntityFramework.SqlServer.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Google.Apis.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Newtonsoft.Json.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\System.CodeDom.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\EntityFramework.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\EntityFramework.SqlServer.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Google.Apis.pdb
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Google.Apis.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.pdb
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.pdb
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.pdb
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\Newtonsoft.Json.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\System.CodeDom.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.xml
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.SuggestedBindingRedirects.cache
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\obj\Debug\Proiect.AdminPanel.resources
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\obj\Debug\Proiect.LogIn.resources
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\obj\Debug\Proiect.Inregistrare.resources
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\obj\Debug\Proiect.HabitTracker.resources
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\obj\Debug\Proiect.FormRecuperareParola.resources
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.CopyComplete
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\obj\Debug\Proiect.exe
+D:\ANUL3\IngineriaProgramarii\ProiectIPTesting\Proiect-IP\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\QuotesAPI.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\QuotesGenerator.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Habits.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Journal.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Calendar.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Database.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\Email.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\Proiect-IP\Proiect\bin\Debug\AccessManagement.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Proiect.exe
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Proiect.pdb
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\AccessManagement.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Calendar.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Database.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Email.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\EntityFramework.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Google.Apis.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Habits.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Journal.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\QuotesAPI.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\QuotesGenerator.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\System.CodeDom.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\EntityFramework.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Google.Apis.pdb
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Google.Apis.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.pdb
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\System.CodeDom.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.xml
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\obj\Debug\Proiect.AdminPanel.resources
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\obj\Debug\Proiect.LogIn.resources
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\obj\Debug\Proiect.Inregistrare.resources
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\obj\Debug\Proiect.HabitTracker.resources
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\obj\Debug\Proiect.FormRecuperareParola.resources
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.Up2Date
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\obj\Debug\Proiect.exe
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\obj\Debug\Proiect.pdb
+C:\Users\LEO\Desktop\project\ProiectFinalFinal\Proiect-IP\Proiect\bin\Debug\Proiect.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Proiect.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\AccessManagement.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Calendar.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Database.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Email.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\EntityFramework.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Google.Apis.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Habits.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Journal.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\QuotesAPI.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\QuotesGenerator.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\System.CodeDom.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\EntityFramework.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Google.Apis.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Google.Apis.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\System.CodeDom.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.xml
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\obj\Debug\Proiect.AdminPanel.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\obj\Debug\Proiect.LogIn.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\obj\Debug\Proiect.Inregistrare.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\obj\Debug\Proiect.HabitTracker.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\obj\Debug\Proiect.FormRecuperareParola.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\obj\Debug\Proiect.exe
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Proiect.exe
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Radu\Desktop\fagultate\IPenis\New folder\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.Up2Date
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Proiect.xml
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Proiect.exe
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Proiect.pdb
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\AccessManagement.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Calendar.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Database.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Email.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\EntityFramework.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Google.Apis.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Habits.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Journal.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\QuotesAPI.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\QuotesGenerator.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\System.CodeDom.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\EntityFramework.xml
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Google.Apis.pdb
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Google.Apis.xml
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Google.Apis.Auth.xml
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.pdb
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Google.Apis.Core.xml
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\System.CodeDom.xml
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\bin\Debug\System.Data.SQLite.xml
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\obj\Debug\Proiect.AdminPanel.resources
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\obj\Debug\Proiect.LogIn.resources
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\obj\Debug\Proiect.Inregistrare.resources
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\obj\Debug\Proiect.HabitTracker.resources
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\obj\Debug\Proiect.FormRecuperareParola.resources
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\obj\Debug\Proiect.csproj.Up2Date
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\obj\Debug\Proiect.exe
+C:\Users\LEO\Desktop\pp\Proiect-IP\Proiect\obj\Debug\Proiect.pdb

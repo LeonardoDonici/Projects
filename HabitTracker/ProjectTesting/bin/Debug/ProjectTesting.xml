@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProjectTesting</name>
+    </assembly>
+    <members>
+        <member name="M:ProjectTesting.UnitTestHabits.TestHabitStartDay">
+            Metoda testeaza setarea corecta a start day-ului Habitului.
+        </member>
+        <member name="M:ProjectTesting.UnitTestHabits.TestHabitCheckedToday">
+            Metoda testeaza daca habit-ul a fost verificat astazi.
+        </member>
+        <member name="M:ProjectTesting.UnitTestHabits.TestHabitCheckedDays1">
+            Metoda testeaza returnarea corecta a zilelor bifate.
+        </member>
+        <member name="M:ProjectTesting.UnitTestHabits.TestHabitCheckedDays2">
+            Metoda testeaza returnarea corecta a zilelor bifate.
+        </member>
+    </members>
+</doc>

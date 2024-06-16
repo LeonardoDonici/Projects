@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Proiect</name>
+    </assembly>
+    <members>
+        <member name="F:Proiect.AdminPanel.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Proiect.AdminPanel.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Proiect.AdminPanel.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Proiect.DataBase">
+            <summary>
+            Clasă pentru gestionarea conexiunilor și operațiunilor cu baza de date SQLite.
+            Implementarea sablonului Singleton pentru a asigura o singură instanță a clasei.
+            </summary>
+            <remarks>
+            Această clasă oferă metode pentru deschiderea și închiderea conexiunilor, precum și pentru
+            executarea interogărilor non-query, interogărilor SELECT și interogărilor scalare.
+            </remarks>
+            <param name="instance">Instanța singleton a clasei DataBase.</param>
+            <param name="connection">Obiectul de conexiune la baza de date SQLite.</param>
+        </member>
+        <member name="F:Proiect.LogIn.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Proiect.LogIn.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Proiect.LogIn.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Proiect.Inregistrare.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Proiect.Inregistrare.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Proiect.Inregistrare.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Proiect.HabitTracker.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Proiect.HabitTracker.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Proiect.HabitTracker.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Proiect.FormRecuperareParola.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Proiect.FormRecuperareParola.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Proiect.FormRecuperareParola.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Proiect.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Proiect.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Proiect.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Proiect.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
