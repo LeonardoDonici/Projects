@@ -1,0 +1,84 @@
+
+   <div class="home">
+    <img src="bricolaj.jpg" alt="Bricolaj" class="img-bun-venit">
+        <br />
+        <%if (user){%>
+            <h2>Bine ai venit, <%= user %>!</h2>
+            <h2>Logat ca <%= rol %>
+            </h2><br/>
+            
+            <button class="button" id="delogareButton" onclick="location.href='/logout'"> Delogare</button>
+            <% } else { %>
+                <h2>Bine ai venit!</h2><br />
+                <button class="button" id="autentificareButton" onclick="location.href='/autentificare'">
+                    Autentificare</button>
+    
+                <% } %>
+                <br/><br/>
+                <%if (user){%>
+                    <form action="/creare-bd" method="get">
+                        <button class="button" type="submit">Creare BD</button><br>
+                    </form>
+                    <form action="/inserare-bd" method="get"><br>
+                        <button class="button" type="submit">Înserare BD</button>
+                    </form>
+                    <form action="/vizualizare-cos" method="get"><br>
+                        <button class="button" type="submit">Coș cumpărături</button>
+                    </form>
+                    <% if(rol == "admin") { %>
+                        <br/><br>
+                            <form action="/adauga-bd" method="get">
+                                <button class="button" type="submit">Adaugare produse BD</button>
+                            </form>
+                    <% } %>
+                    <% } %> 
+                <br/><br/>
+                <h2>Produsele din stoc</h2><br/>
+                <table class="prod">
+                    <tr>
+                        <th>ID</th>&nbsp;&nbsp;
+                        <th>DENUMIRE</th>&nbsp;&nbsp;
+                        <th>PRET</th>&nbsp;&nbsp;
+                        <th>STOC</th>&nbsp;&nbsp;
+                        <%if (user){%>
+                        <th>ADAUGARE</th>&nbsp;&nbsp;
+                        <% } %> 
+                    </tr>
+                            
+                        <% for (var i = 0; i < produse.length; i++){ %>
+                            <tr>
+                                <td><%= produse[i].id %></td>
+                                <td><%= produse[i].denumire %></td>
+                                <td><%= produse[i].pret %></td>
+                                <td><%= produse[i].stoc %></td>
+                                <%if (user){%>
+                                <td><form action="/adaugare-cos" method="get">
+                                    <button class="button" type = "submit" name="id" value="<%=produse[i].id%>">Adaugă în coș</button></td>   
+                                </form></td>
+                            </tr>    
+                            <% } %> 
+                            <% } %>
+            </table>
+            
+            <div class="product-images">
+                <img src="burghiuri.jpg" alt="Produs 1" class="product-item">
+                <img src="chei.jpg" alt="Produs 3" class="product-item">
+            </div>
+    
+                <br /><br />
+
+                <br />
+                <div id="textPrincipal">
+                    <h1>Bine ați venit la magazinul nostru de bricolaj</h1>
+                    <h2>Descoperiți inspirația pentru orice proiect de bricolaj.</h2>
+                    <h2>De la unelte de înaltă calitate și materiale de construcții,</h2>
+                    <h2>până la soluții de depozitare și organizare, avem tot ce aveți nevoie</h2>
+                    <h2>pentru a transforma orice spațiu și a aduce un plus de funcționalitate și stil în viața dumneavoastră.</h2>
+                    
+                </div>
+                <br/><br/><br/>
+            
+</div>
+
+
+

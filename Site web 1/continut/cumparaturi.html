@@ -1,0 +1,82 @@
+<div>
+    <div>
+      <h1 class="title">Ce armă doriți să închiriați/cumpărați?</h1><br><br>
+      <h2 style="margin-left: 5%;">Adăugați produsele dorite:</h2><br><br><br>
+      <form>
+        <label for="Nume">Nume armă:</label>
+        <input id="nume" type="text" /><br />
+        <label for="Cantitate:">Cantitate gloanțe:</label>
+        <input id="cantitate" type="text" /><br />
+        <p id="eroare"></p>
+        Alegeti modalitatea de stocare:<br/>
+
+        <select onchange="changeStorage()" >
+            <option value="local" id="localst">localStorage</option>
+            <option value="db" id="database">IndexedDB</option>
+        </select><br><br>
+        <button class="fancy-submit" id="adauga" onclick="buy(event)">Cumpără</button><br/><br/>
+       
+      </form>
+      <br><br>
+      <table class="table" id="tabel_cump">
+        <tr>
+          <th>Id</th>
+          <th>Tipul de armă</th>
+          <th>Cantitate gloanțe</th>
+        </tr>
+      </table>
+
+      <div style=  "position: absolute; top: 40%; right: 0; width: 40%;" >
+        <br><br><h2>Stoc de arme și gloanțe</h2>
+        <table class="table">
+          <tr>
+            <th>Tip de armă</th>
+            <th>Cantitate gloanțe</th>
+          </tr>
+          <tr>
+            <td>Glock</td>
+            <td>150</td>
+          </tr>
+          <tr>
+            <td>P2000</td>
+            <td>120</td>
+          </tr>
+          <tr>
+            <td>M4A4</td>
+            <td>250</td>
+          </tr>
+          <tr>
+            <td>AK-47</td>
+            <td>300</td>
+          </tr>
+          <tr>
+            <td>Desert Eagle</td>
+            <td>200</td>
+          </tr>
+          <tr>
+            <td>MP5</td>
+            <td>180</td>
+          </tr>
+          <tr>
+            <td>AWP</td>
+            <td>100</td>
+          </tr>
+          <tr>
+            <td>UMP-45</td>
+            <td>220</td>
+          </tr>
+          <tr>
+            <td>FN SCAR</td>
+            <td>280</td>
+          </tr>
+          <tr>
+            <td>Remington 700</td>
+            <td>150</td>
+          </tr>
+       
+        </table>
+      </div>
+
+
+    </div>
+  </div>

@@ -1,0 +1,87 @@
+
+   <body>
+  
+
+    <img src="imagini/arme.jpg" alt="Imagine Arma" class="logo">
+    <h1 class="title">Învăț</h1><br>
+
+
+
+        <div class="text-section">
+            <aside>
+                <div class="btn-group">
+                    <button id="button1" class="fancy-submit" onclick ="functieSectiune1()">Secțiunea 1</button>
+                    <button id="button2" class="fancy-submit" onclick="functieSectiune2()">Secțiunea 2</button>
+                    <button id="button3"class="fancy-submit" onclick="functieSectiune3()">Secțiunea 3</button>
+                </div>
+            </aside>
+        </div><br /><br />
+
+    <section class="text-section">
+        <h2 id="sectiunea1" >Informații generale</h2>
+        <h2>Data și ora: </h2>
+        <div id="data"></div>
+        <p id="clock"></p>
+
+        <h2>Locația curentă: </h2>
+        <p id="locatie" ></p>
+        <br />
+        <h2>Directorul în care s-a lucrat: </h2>
+        <p id="url" ></p>
+        <h2>Versiunea curentă de browser: </h2>
+        <p id="nume_versiune_browser" ></p>
+        <h2>Versiunea curentă de sistem de operare: </h2>
+        <p id="nume_versiune_so" ></p>
+        <br /><br />
+    </section>
+
+        <section class="text-section">
+            <h2 id="sectiunea2">Formular semnătură</h2>
+            <p>Vă rugăm să semnați mai jos pentru a finaliza procesul de achiziție:</p>
+            <canvas onclick="draw(event)" id="canvas" height="300" width="500" style="border:1px solid"></canvas>
+            <br /><br />
+        
+            <label for="contur">Culoare contur</label>
+            <input type="color" name="contur" id="contur" value="#64c4c4"><br />
+        
+            <label for="umplere">Culoare de umplere</label>
+            <input type="color" name="umplere" id="umplere" value="#6c4983"><br><br>
+            
+            <button id="reset" onclick="Curatare()">Curață pânza</button>
+        </section>
+
+        <section class="text-section">
+        <h2 id="sectiunea3">Modificarea dinamica a tabelului cu armele selectate</h2>
+        <label for="poz">Poziție: </label>
+        <input type="text" id="poz" name="poz" value="0"><br><br>
+        <label for="culoare">Alegeți culoarea pentru coloană</label>
+        <input type="color" id="culoare" name="col" value="#e66465" onchange="schimbaCuloare_coloana()"><br><br>
+        <label for="culoare">Alegeți culoarea pentru rand</label>
+        <input type="color" id="culoare2" name="col" value="#e66365" onchange="schimbaCuloare_linie()"><br><br>
+
+
+        <table id="tabel">
+            <tr>
+                <td>Glock</td>
+                <td>19mm</td>
+            </tr>
+            <tr>
+                <td>M4A1</td>
+                <td>32mm</td>
+            </tr>
+            <tr>
+                <td>UMP</td>
+                <td>19mm</td>
+            </tr>
+        </table><br><br>
+
+        <button onclick="inserareColoana()" id="coloana">Coloană nouă</button>
+        <button onclick=" inserareRand()" id="linie">Rând nou</button>
+    </section>
+
+
+        
+   </body>
+
+
+

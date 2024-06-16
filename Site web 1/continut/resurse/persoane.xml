@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE persoane SYSTEM "persoane.dtd">
+<persoane>
+    <persoana id="1">
+        <nume>Popescu</nume>
+        <prenume>Ion</prenume>
+        <varsta>23</varsta>
+        <adresa>
+            <strada>Stefan cel Mare</strada>
+            <numar>17</numar>
+            <localitate>Draganesti</localitate>
+            <judet>Galati</judet>
+            <tara>Romania</tara>
+        </adresa>
+
+        <PhoneNumber>0725502945</PhoneNumber>
+        <studii>
+            <Liceu>Colegiul National Calistrat Hogas</Liceu>
+            <Facultate>Facultatea de Constructii</Facultate>
+        </studii>
+        <WorkExperience>
+            Continental Summer Practice,  
+            Vitesco Internship
+        </WorkExperience>
+
+    </persoana>
+    <persoana id="2">
+        <nume>Popa</nume>
+        <prenume>Ionescu</prenume>
+        <varsta>28</varsta>
+        <adresa>
+        <strada>Florin Petrescu</strada>
+        <numar>12</numar>
+        <localitate>Papucesti</localitate>
+        <judet>Braila</judet>
+        <tara>Romania</tara>
+        </adresa>
+
+        <PhoneNumber>0726602245</PhoneNumber>
+        <studii>
+            <Liceu>Colegiul National Calistrat Hogas</Liceu>
+            <Facultate>Facultatea de Constructii</Facultate>
+        </studii>
+        <WorkExperience>
+            Continental Summer Practice, 
+            Amazon Internship
+        </WorkExperience>
+    </persoana>
+
+    <persoana id="3">
+        <nume>Minculescu</nume>
+        <prenume>Andrei</prenume>
+        <varsta>21</varsta>
+        <adresa>
+        <strada>Anton Pan</strada>
+        <numar>12</numar>
+        <localitate>Papucesti</localitate>
+        <judet>Braila</judet>
+        <tara>Romania</tara>
+        </adresa>
+
+        <PhoneNumber>0725502945</PhoneNumber>
+        <studii>
+            <Liceu>Colegiul National Calistrat Hogas</Liceu>
+            <Facultate>Facultatea de Constructii</Facultate>
+        </studii>
+        <WorkExperience>
+            Amazon Summer Practice,   
+            Bitdefender Internship
+        </WorkExperience>
+        
+    </persoana>
+</persoane>
+

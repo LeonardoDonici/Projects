@@ -1,0 +1,17 @@
+<div>
+    <h1>Chestionar</h1><br>
+    <h2>Testează-ți cunoștințele despre Bricolaj</h2><br>
+    </div><br/>
+    <form class = "ch" action="/rezultat-chestionar" method="post">
+        <fieldset class="chestionar">
+            <% for(var i = 0 in intrebari){ %>
+                <p><%= intrebari[i].intrebare %></p>
+                <% for (var j = 0 in intrebari[i].variante) { %>
+                    <input type="radio" name="q<%= i %>" value="<%= j %>"/><%= intrebari[i].variante[j] %><br/> 
+                <% } %>
+            <% } %>
+            <br/><br/><br/>
+            <button class="button" type="submit"> Trimite</button> 
+        </fieldset>
+    </form>
+    

@@ -1,0 +1,37 @@
+<h1>Pagina Restrictionata</h1>
+    <p>Accesul dumneavoastră este blocat pentru moment.</p>
+    
+    <p>Timpul rămas până la deblocare: <span id="timer" data-remaining-time="<%= remainingTime %>"></span> secunde</p>
+
+
+    <script>
+        // Funcție pentru actualizarea timer-ului în timp real
+        function updateTimer(remainingTime,blocat) {
+          const timerElement = document.getElementById('timer');
+      
+          // Actualizați elementul DOM cu timpul rămas
+          timerElement.innerText = Math.ceil(remainingTime / 1000);
+      
+          // Actualizați timer-ul în fiecare secundă până când ajunge la 0
+          if (remainingTime > 0) {
+            setTimeout(() => {
+              updateTimer(remainingTime - 1000);
+            }, 1000);
+          } else {
+            
+            // Timer-ul a ajuns la 0, redirecționați către pagina de principala
+            window.location.href = '/';
+          }
+        }
+      
+        // Verificați dacă există elementul de timer pe pagină
+        const timerElement = document.getElementById('timer');
+        if (timerElement) {
+          // Obțineți timpul rămas din atributul data-remaining-time al elementului
+          const remainingTime = parseInt(timerElement.getAttribute('data-remaining-time'));
+      
+          // Porniți actualizarea timer-ului
+          updateTimer(remainingTime);
+        }
+      </script>
+      

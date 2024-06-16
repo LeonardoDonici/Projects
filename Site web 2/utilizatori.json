@@ -1,0 +1,11 @@
+[
+    
+    {"user":"admin","nume":"nume1","prenume":"prenume1","parola":"admin","varsta":"20","rol":"admin"},
+    {"user":"user1","nume":"nume3","prenume":"prenume3","parola":"user1","varsta":"20","rol":"user"},
+    {"user":"user2","nume":"nume4","prenume":"prenume4","parola":"user2","varsta":"20","rol":"user"},
+    {"user":"user3","nume":"nume5","prenume":"prenume5","parola":"user3","varsta":"20","rol":"user"},
+    {"user":"user4","nume":"nume6","prenume":"prenume6","parola":"user4","varsta":"20","rol":"user"},
+    {"user":"user5","nume":"nume7","prenume":"prenume7","parola":"user5","varsta":"20","rol":"user"}
+
+
+]

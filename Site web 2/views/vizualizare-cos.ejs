@@ -1,0 +1,27 @@
+<h2>Produsele din coș</h2><br/>
+<table class="prod">
+    <tr>
+        <th>ID</th>
+        <th>DENUMIRE</th>
+        <th>PRET</th>
+        <th>STOC</th>
+        <th>CANTITATE</th>
+        <th>ACTIUNI</th>
+    </tr>
+    
+    <% for (var i = 0; i < cos.length; i++){ %>
+        <tr>
+            <td><%= cos[i].id %></td>
+            <td><%= cos[i].denumire %></td>
+            <td><%= cos[i].pret %></td>
+            <td><%= cos[i].stoc %></td>
+            <td><%= cos[i].cantitate %></td>
+            <td>
+                <form action="/sterge-din-cos" method="get">
+                    <button class="button" type="submit" name="id" value="<%= cos[i].id %>">Elimină din coș</button>
+                </form>
+            </td>
+        </tr>    
+    <% } %>
+</table>
+<a href="/" class="button">Întoarcere la pagina principală</a>

@@ -1,0 +1,69 @@
+
+
+   <body class>
+
+    <h1 class="title">Înregistrare</h1><br>
+
+    <h1 class="titlu-dreapta">Creare cont:</h1><br><br>
+
+    <form  class="intro" id="inregistrare_formular" onsubmit="return validare_formular(event)" method="POST">
+        <fieldset id="1">
+          Nume utilizator: <input type="text" id="NumeUtilizator" name="NumeUtilizator" placeholder="nume de utilizator" required /><br/>
+          Parola: <input type="password" id="Parola" name="Parola" placeholder="*****"  required/><br/>
+          Nume: <input type="text" id="Nume" name="Nume" placeholder="nume"/><br/>
+          Prenume: <input type="text" id="Prenume" name="Prenume" placeholder="prenume"/><br/>
+          Email: <input type="email" id="email" name="email" placeholder="@gmail.com"  /><br/>
+          Telefon: <input type="tel" id="Telefon" name="Telefon" placeholder="07..."/><br/>
+
+        </fieldset><br>
+
+        <fieldset >
+
+            <legend>Informații personale:</legend>
+
+            <br><label>Gen: </label> <select><option value ="M">M</option><option value ="F">F</option></select><br><br>
+        
+            <label for="ListaMancare">Mâncarea Preferată: </label>
+           
+            <input list="Mancare" name="ListaMancare" id="ListaMancare">
+
+            <datalist id="Mancare">
+
+                <option value="Paste">
+                <option value="Pizza">
+                <option value="Burger">
+                <option value="Shaorma">
+                <option value="Cartofi">
+                <option value="Other">
+
+            </datalist><br><br>
+                
+            <label for="favcolor">Culoarea Preferată:</label>
+            <input type="color" id="favcolor" name="favcolor" value="#ff0000"><br><br>
+
+            <label for="birthday">Data Nașterii:</label>
+            <input type="date" id="birthday" name="birthday"><br><br>
+
+            <label for="birthdayHour">Ora Nașterii:</label>
+            <input type="time" id="birthdayHour" name="birthdayHour"><br><br>
+
+           
+            <label for="Varsta">Vârsta :</label>
+            <input type="range" id="Varsta" name="Varsta" min="0" max="100"><br><br>
+
+            <label for="AdresaPaginii">Adresa paginii personale :</label>
+            <input type="url" id="AdresaPaginii" ><br><br>
+
+            <label>Descriere personală </label>
+            <br><textarea id="Descriere" name="Descriere personala" rows="4" cols="50"></textarea><br><br>
+            
+            <button class="fancy-submit" style="margin-left: 2%;" id="verifica_formular" type="submit">Înregistrare</button>
+
+            
+        </fieldset>
+
+      </form>
+
+   </body>
+
+

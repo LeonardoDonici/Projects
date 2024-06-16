@@ -1,0 +1,17 @@
+<div class="header-chestionar">
+    <h1>Dacă dorești să comanzi, trebuie să te loghezi</h1>
+    </div><br/>
+    <form class = "autentificare" action="/verificare-autentificare" method="post">
+            <p style="text-align: center;">Utilizator</p><input type="text" name="utilizator" id="user" required/>
+            <br/>
+            <p style="text-align: center;">Parola</p><input type = "password" name="password" id="parola" required/><br/>
+            <% if(mesajEroare!=null){ %>
+                <p style="color:red;"><%= mesajEroare %></p>
+            <% } else { %>
+                <p></p>
+                <% } %>
+            <button class="button" id="aut" type="submit"> Autentificare</button> 
+        </fieldset>
+    </form>
+    <br/><br/><br/>
+    

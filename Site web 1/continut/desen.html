@@ -1,0 +1,80 @@
+
+
+<body >
+
+    <img src="imagini/arme.jpg" alt="Imagine Arma" class="logo">
+    <h1 class="title">Ilustrație magazin</h1><br>
+
+
+
+<div class="svg-container">
+    <svg width="400" height="400">
+    <!-- cladirea -->
+    <rect x="50" y="150" width="300" height="200" fill="#C0C0C0" stroke="#777" stroke-width="2" />
+    <!-- ferestrele -->
+    <rect x="90" y="200" width="50" height="50" fill="#87CEEB" stroke="#000" stroke-width="1" />
+    <rect x="250" y="200" width="50" height="50" fill="#87CEEB" stroke="#000" stroke-width="1" />
+    
+    <!-- usa -->
+    <rect x="170" y="240" width="60" height="110" fill="#8B4513" />
+    <circle cx="200" cy="300" r="5" fill="#000" />
+    
+    <!-- acoperis -->
+    <polygon points="50,150 200,50 350,150" fill="#8B0000" stroke="#777" stroke-width="2" />
+    
+    <!-- semnul -->
+    <rect x="130" y="90" width="140" height="50" fill="#C0C0C0" stroke="#777" stroke-width="2" />
+    <text x="155" y="125" fill="#000" font-size="20" font-family="Arial">Gun Shop</text>
+    
+    <!-- arma cu animatie-->
+    <!-- corpul armei -->
+    <rect x="170" y="170" width="50" height="25">
+        <animate attributeName="fill" values="#FFA07A; #FFDAB9; #FFA07A" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <!-- teava -->
+    <rect x="220" y="180" width="25" height="12.5" fill="url(#grad1)">
+        <animate attributeName="fill" values="#DAA520; #FFD700; #DAA520" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <!-- tragaci -->
+    <rect x="165" y="175" width="10" height="10" fill="url(#grad1)">
+        <animate attributeName="fill" values="#DAA520; #FFD700; #DAA520" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <!-- luneta -->
+    <polygon points="220,170 225,170 223,160" fill="url(#grad1)">
+        <animate attributeName="fill" values="#DAA520; #FFD700; #DAA520" dur="2s" repeatCount="indefinite" />
+    </polygon>
+    <!-- maner -->
+    <rect x="170" y="195" width="15" height="12.5" fill="url(#grad1)">
+        <animate attributeName="fill" values="#DAA520; #FFD700; #DAA520" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <!-- decoratiile de pe pistol -->
+    <circle cx="195" cy="175" r="2" fill="url(#grad1)">
+        <animate attributeName="fill" values="#FFD700; #DAA520; #FFD700" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="205" cy="170" r="1" fill="url(#grad1)">
+        <animate attributeName="fill" values="#FFD700; #DAA520; #FFD700" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="215" cy="185" r="2" fill="url(#grad1)">
+        <animate attributeName="fill" values="#FFD700; #DAA520; #FFD700" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="225" cy="187.5" r="1" fill="url(#grad1)">
+        <animate attributeName="fill" values="#FFD700; #DAA520; #FFD700" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="180" cy="190" r="2" fill="url(#grad1)">
+        <animate attributeName="fill" values="#FFD700; #DAA520; #FFD700" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <!-- siguranta pistolului -->
+    
+    <defs>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:rgb(255,255,0);stop-opacity:1" />
+            <stop offset="100%" style="stop-color:rgb(255,165,0);stop-opacity:1" />
+        </linearGradient>
+    </defs>
+</svg>
+</div>
+
+
+</body>
+
+

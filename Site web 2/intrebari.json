@@ -1,0 +1,33 @@
+[
+    { 
+        "intrebare": "Ce unelte sunt necesare pentru a monta o raft?",
+        "variante": ["Șurubelnice și șuruburi", "Clește și ciocan", "Fierăstrău și cuie", "Ruletă și nivel"],
+        "corect": 0
+    },
+    { 
+        "intrebare": "Care dintre următoarele este un material comun pentru construirea unei mese de lucru?",
+        "variante": ["PVC", "OSB", "Acrilic", "Fier"],
+        "corect": 1
+    },
+    { 
+        "intrebare": "Ce instrument este cel mai potrivit pentru tăierea plăcilor ceramice?",
+        "variante": ["Foarfecă", "Fierăstrău cu disc diamantat", "Clește", "Rindea"],
+        "corect": 1
+    },
+    { 
+        "intrebare": "Ce tip de vopsea este recomandat pentru a zugrăvi o cameră umedă?",
+        "variante": ["Vopsea pe bază de ulei", "Vopsea lavabilă", "Vopsea spray", "Vopsea acrilică"],
+        "corect": 3
+    },
+    { 
+        "intrebare": "Ce măsurători ar trebui să luați pentru a cumpăra o ușă nouă?",
+        "variante": ["Lățime și înălțime", "Doar înălțimea", "Grosimea", "Doar lățimea"],
+        "corect": 0
+    },
+
+    { 
+        "intrebare": "Care este cel mai potrivit tip de clei pentru lipirea lemnului?",
+        "variante": ["Clei de silicon", "Clei de contact", "Clei de poliuretan", "Clei PVA (alb)"],
+        "corect": 3
+    } 
+]
